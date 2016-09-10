@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Gustavo Furtado'
-# SITEURL = 'http://gustavofurtado.com.br'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'http://gustavofurtado.com.br'
+# SITEURL = 'http://localhost:8000'
 SITENAME = 'Gustavo Furtado de Oliveira Alves'
 SITETITLE = 'Gustavo Furtado de Oliveira Alves'
 SITESUBTITLE = 'Desenvolvedor de Softwares'
@@ -63,7 +63,7 @@ CUSTOM_CSS = 'static/custom.css'
 
 MAIN_MENU = True
 
-#DISQUS_SITENAME = 'gustavofurtado.com.br'
+DISQUS_SITENAME = 'gustavofurtado.com.br'
 GOOGLE_ANALYTICS = ''
 GOOGLE_TAG_MANAGER = ''
 
