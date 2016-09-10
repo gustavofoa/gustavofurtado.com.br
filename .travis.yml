@@ -16,4 +16,5 @@ install:
 script:
 - ls
 - ls content
+- ls content/pages
 - make github
