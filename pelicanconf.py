@@ -2,9 +2,15 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Gustavo Furtado de Oliveira Alves'
+AUTHOR = 'Gustavo Furtado'
+# SITEURL = 'http://gustavofurtado.com.br'
+SITEURL = 'http://localhost:8000'
 SITENAME = 'Gustavo Furtado de Oliveira Alves'
-SITEURL = ''
+SITETITLE = 'Gustavo Furtado de Oliveira Alves'
+SITESUBTITLE = 'Desenvolvedor de Softwares'
+SITEDESCRIPTION = 'Oi, eu sou o Gustavo'
+SITELOGO = SITEURL + '/images/profile.jpg'
+FAVICON = SITEURL + '/images/favicon/favicon.ico'
 
 PATH = 'content'
 
@@ -38,14 +44,6 @@ DEFAULT_PAGINATION = 10
 # Theme
 THEME = 'theme'
 
-AUTHOR = 'Gustavo Furtado de Oliveira Alves'
-SITEURL = 'http://gustavofurtado.com.br'
-SITENAME = 'Gustavo Furtado de Oliveira Alves'
-SITETITLE = 'Gustavo Furtado de Oliveira Alves'
-SITESUBTITLE = 'Desenvolvedor de Softwares'
-SITEDESCRIPTION = 'Oi, eu sou o Gustavo'
-SITELOGO = SITEURL + '/images/profile.png'
-FAVICON = SITEURL + '/images/favicon/favicon.ico'
 
 BROWSER_COLOR = '#333'
 ROBOTS = 'index, follow'
@@ -65,11 +63,12 @@ CUSTOM_CSS = 'static/custom.css'
 
 MAIN_MENU = True
 
-DISQUS_SITENAME = 'gustavofurtado.com.br'
+#DISQUS_SITENAME = 'gustavofurtado.com.br'
 GOOGLE_ANALYTICS = ''
 GOOGLE_TAG_MANAGER = ''
 
 # Enable i18n plugin.
+PLUGIN_PATHS = ['./pelican-plugins']
 PLUGINS = ['i18n_subsites']
 # Enable Jinja2 i18n extension used to parse translations.
 JINJA_EXTENSIONS = ['jinja2.ext.i18n']

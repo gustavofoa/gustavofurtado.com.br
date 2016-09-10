@@ -1,8 +1,6 @@
-charset: utf-8
-Title: Sobre
+Title: About
 name: about
 slug: about
-date: 2016-09-10 00:00
 
-#Sobre
-Página de teste
+#About
+Hi, I'm Gustavo Furtado.
