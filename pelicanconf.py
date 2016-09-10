@@ -75,4 +75,4 @@ PLUGINS = ['i18n_subsites']
 JINJA_EXTENSIONS = ['jinja2.ext.i18n']
 
 # Default theme language.
-I18N_TEMPLATES_LANG = 'pt_BR'
+I18N_TEMPLATES_LANG = 'en'
