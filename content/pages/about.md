@@ -1,6 +1,8 @@
+charset: utf-8
 Title: Sobre
-date: 05/09/2016
+name: about
+slug: about
+date: 2016-09-10 00:00
 
 #Sobre
-Página de teste123
-Teste travis config
+Página de teste

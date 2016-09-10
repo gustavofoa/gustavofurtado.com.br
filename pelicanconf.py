@@ -31,5 +31,48 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# Theme
+THEME = 'theme'
+
+AUTHOR = 'Gustavo Furtado de Oliveira Alves'
+SITEURL = 'http://gustavofurtado.com.br'
+SITENAME = 'Gustavo Furtado de Oliveira Alves'
+SITETITLE = 'Gustavo Furtado de Oliveira Alves'
+SITESUBTITLE = 'Desenvolvedor de Softwares'
+SITEDESCRIPTION = 'Oi, eu sou o Gustavo'
+SITELOGO = SITEURL + '/images/profile.png'
+FAVICON = SITEURL + '/images/favicon/favicon.ico'
+
+BROWSER_COLOR = '#333'
+ROBOTS = 'index, follow'
+
+CC_LICENSE = {
+    'name': 'Creative Commons Attribution-ShareAlike',
+    'version': '4.0',
+    'slug': 'by-sa'
+}
+
+COPYRIGHT_YEAR = 2016
+
+EXTRA_PATH_METADATA = {
+    'extra/custom.css': {'path': 'static/custom.css'},
+}
+CUSTOM_CSS = 'static/custom.css'
+
+MAIN_MENU = True
+
+DISQUS_SITENAME = 'gustavofurtado.com.br'
+GOOGLE_ANALYTICS = ''
+GOOGLE_TAG_MANAGER = ''
+
+# Enable i18n plugin.
+PLUGINS = ['i18n_subsites']
+# Enable Jinja2 i18n extension used to parse translations.
+JINJA_EXTENSIONS = ['jinja2.ext.i18n']
+
+# Default theme language.
+I18N_TEMPLATES_LANG = 'pt_BR'
