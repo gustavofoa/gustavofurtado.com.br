@@ -12,9 +12,6 @@ SITEDESCRIPTION = 'Oi, eu sou o Gustavo'
 SITELOGO = SITEURL + '/images/profile.jpg'
 FAVICON = SITEURL + '/images/favicon/favicon.ico'
 
-STATIC_PATHS = ['images', 'extra/CNAME']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
-
 PATH = 'content'
 
 TIMEZONE = 'America/Sao_Paulo'
@@ -59,9 +56,13 @@ CC_LICENSE = {
 
 COPYRIGHT_YEAR = 2016
 
+STATIC_PATHS = ['images', 'extra/CNAME']
+
 EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path': 'static/custom.css'},
+    'extra/CNAME': {'path': 'CNAME'},
 }
+
 CUSTOM_CSS = 'static/custom.css'
 
 MAIN_MENU = True
