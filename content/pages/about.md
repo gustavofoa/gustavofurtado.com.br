@@ -1,6 +1,5 @@
-Title: About
+Title: Sobre
 name: about
 slug: about
 
-#About
-Hi, I'm Gustavo Furtado.
+Este blog está em construção, darei mais detalhes em breve no primeiro post do blog.
