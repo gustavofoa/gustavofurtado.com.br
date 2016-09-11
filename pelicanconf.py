@@ -12,12 +12,22 @@ SITESUBTITLE = 'Desenvolvedor de Softwares'
 SITEDESCRIPTION = 'Site do Gustavo Furtado de Oliveia Alves'
 SITELOGO = SITEURL + '/images/profile.jpg'
 FAVICON = SITEURL + '/images/favicon/favicon.ico'
+BROWSER_COLOR = '#333333'
+PYGMENTS_STYLE = 'monokai'
 
 PATH = 'content'
 
+#language
 TIMEZONE = 'America/Sao_Paulo'
-
 DEFAULT_LANG = 'en'
+DEFAULT_LANG = 'en'
+OG_LOCALE = 'en_US'
+LOCALE = 'en_US'
+I18N_TEMPLATES_LANG = 'en'
+DATE_FORMATS = {
+    'en': '%B %d, %Y',
+}
+
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -33,9 +43,11 @@ AUTHOR_FEED_RSS = None
 #          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
-
+SOCIAL = (('linkedin', 'https://br.linkedin.com/in/gustavo-furtado-ab5703a'),
+          ('github', 'https://github.com/gustavofoa'),
+          ('google', 'https://google.com/+GustavoFurtadoDeOliveiraAlves'),
+          ('twitter', 'https://twitter.com/gustavofoa'),
+          ('rss', '//gustavofurtado.com.br/feeds/all.atom.xml'))
 DEFAULT_PAGINATION = 10
 
 
@@ -77,6 +89,3 @@ PLUGIN_PATHS = ['./pelican-plugins']
 PLUGINS = ['i18n_subsites']
 # Enable Jinja2 i18n extension used to parse translations.
 JINJA_EXTENSIONS = ['jinja2.ext.i18n']
-
-# Default theme language.
-I18N_TEMPLATES_LANG = 'en'
