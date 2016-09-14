@@ -1,7 +1,7 @@
 title: Seja bom no essencial, programador
 date: 2015-12-04 09:46
 author: Gustavo Furtado de Oliveira Alves
-category: Carreira
+category: carreira, dicas
 slug: seja-bom-no-essencial-programador
 
 Tecnologia nova todo ano tem. A cada novo IPhone novas oportunidades surgem.
