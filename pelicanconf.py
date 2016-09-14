@@ -17,11 +17,19 @@ PYGMENTS_STYLE = 'monokai'
 
 PATH = 'content'
 
+
+# Enable i18n plugin.
+PLUGIN_PATHS = ['./pelican-plugins']
+PLUGINS = ['i18n_subsites']
+# Enable Jinja2 i18n extension used to parse translations.
+JINJA_EXTENSIONS = ['jinja2.ext.i18n']
+
 #language
 TIMEZONE = 'America/Sao_Paulo'
+I18N_TEMPLATES_LANG = 'en'
 DEFAULT_LANG = 'pt_BR'
 OG_LOCALE = 'pt_BR'
-# I18N_TEMPLATES_LANG = 'pt_BR'
+# LOCALE = 'pt_BR'
 DATE_FORMATS = {
     'en': '%B %d, %Y',
     'pt_BR': '%d de %B de %Y',
@@ -48,6 +56,9 @@ SOCIAL = (('linkedin', 'https://br.linkedin.com/in/gustavo-furtado-ab5703a'),
           ('twitter', 'https://twitter.com/gustavofoa'),
           ('rss', '//gustavofurtado.com.br/feeds/all.atom.xml'))
 DEFAULT_PAGINATION = 10
+
+MENUITEMS = (('Archives', '/archives.html'),
+             ('Categories', '/categories.html'),)
 
 
 # Uncomment following line if you want document-relative URLs when developing
@@ -80,11 +91,5 @@ CUSTOM_CSS = 'static/custom.css'
 MAIN_MENU = True
 
 DISQUS_SITENAME = 'gustavofurtado'
-GOOGLE_ANALYTICS = 'UA-36232166-2'
+GOOGLE_ANALYTICS = ''
 GOOGLE_TAG_MANAGER = ''
-
-# Enable i18n plugin.
-PLUGIN_PATHS = ['./pelican-plugins']
-PLUGINS = ['i18n_subsites']
-# Enable Jinja2 i18n extension used to parse translations.
-JINJA_EXTENSIONS = ['jinja2.ext.i18n']
