@@ -17,7 +17,13 @@ module.exports = function (grunt) {
     },
 
     watch: {
-      files: ['content/*.md','content/**/*.md','theme/**/*.*', 'pelicanconf.py', 'content/static/*.*'],
+      files: [
+        'content/*.md',
+        'content/**/*.md',
+        'theme/**/*.*',
+        'pelicanconf.py',
+        'content/static/*.*'
+      ],
       tasks: ['build'],
       options: {
         livereload: 35729,
@@ -38,6 +44,7 @@ module.exports = function (grunt) {
           port: 9000,
           livereload: 35729,
           base: 'output',
+          hostname: 'localhost',
           open: true,
           debug: false
         }
