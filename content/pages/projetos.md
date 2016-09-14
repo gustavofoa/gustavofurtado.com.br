@@ -2,8 +2,13 @@ Title: Meus projetos
 slug: projetos
 
 Além do meu trabalho na Mult-e, também desenvolvo alguns projetos nas horas vagas.
+Descrevo abaixo os projetos que desenvolvo a noite. Porque sucesso se faz a noite!
 
 ##Músicas para Missa ([musicasparamissa.com.br](http://musicasparamissa.com.br/){:target="\_blank"})
+
+[
+![mpm](https://dm8sjho5caga5.cloudfront.net/images/logo/logoMpM-300x223.png){: style="float:left"}
+](http://musicasparamissa.com.br/){:target="\_blank"})
 
 Este site eu criei junto com minha esposa Daiana em maio de 2013. Eu já escrevi um post completo sobre como nasceu o site, você poce acessar o post clicando no link abaixo.
 

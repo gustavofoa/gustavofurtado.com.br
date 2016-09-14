@@ -7,7 +7,7 @@ AUTHOR = 'Gustavo Furtado'
 # SITEURL = 'http://localhost:8000'
 SITEURL = ''
 SITENAME = 'Gustavo Furtado de Oliveira Alves'
-SITETITLE = 'Gustavo Furtado de Oliveira Alves'
+SITETITLE = 'Gustavo Furtado'
 SITESUBTITLE = 'Desenvolvedor de Softwares'
 SITEDESCRIPTION = 'Site do Gustavo Furtado de Oliveia Alves'
 SITELOGO = SITEURL + '/images/profile.jpg'
@@ -19,13 +19,12 @@ PATH = 'content'
 
 #language
 TIMEZONE = 'America/Sao_Paulo'
-DEFAULT_LANG = 'en'
-DEFAULT_LANG = 'en'
-OG_LOCALE = 'en_US'
-LOCALE = 'en_US'
-I18N_TEMPLATES_LANG = 'en'
+DEFAULT_LANG = 'pt_BR'
+OG_LOCALE = 'pt_BR'
+# I18N_TEMPLATES_LANG = 'pt_BR'
 DATE_FORMATS = {
     'en': '%B %d, %Y',
+    'pt_BR': '%d de %B de %Y',
 }
 
 
@@ -69,7 +68,7 @@ CC_LICENSE = {
 
 COPYRIGHT_YEAR = 2016
 
-STATIC_PATHS = ['images', 'extra/CNAME']
+STATIC_PATHS = ['images', 'extra/CNAME', 'static']
 
 EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path': 'static/custom.css'},

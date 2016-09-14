@@ -17,7 +17,7 @@ module.exports = function (grunt) {
     },
 
     watch: {
-      files: ['content/*.md','content/**/*.md','theme/**/*.*', 'pelicanconf.py'],
+      files: ['content/*.md','content/**/*.md','theme/**/*.*', 'pelicanconf.py', 'content/static/*.*'],
       tasks: ['build'],
       options: {
         livereload: 35729,
