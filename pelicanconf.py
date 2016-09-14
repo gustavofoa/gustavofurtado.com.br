@@ -79,7 +79,7 @@ CUSTOM_CSS = 'static/custom.css'
 
 MAIN_MENU = True
 
-DISQUS_SITENAME = 'http://gustavofurtado.com.br'
+DISQUS_SITENAME = 'gustavofurtado'
 GOOGLE_ANALYTICS = ''
 GOOGLE_TAG_MANAGER = ''
 

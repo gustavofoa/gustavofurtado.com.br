@@ -31,7 +31,7 @@ Meu objetivo com este blog é compartilhar o meu conhecimento de forma didática
 
 Analisando os comentários postados no blog, posso dizer que já ajudei muitas pessoas com este blog. Mas pretendo ajudar muito mais, ensinar muito mais e contribuir muito mais com esta revolução de ensino que estamos vivendo, onde a programação está se tornando disciplina básica da alfabetização.
 
-### Minicurso GRATUITO de lógica de programação ([Inscreva-se aqui](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/){: target="\_blank"})
+#### Minicurso GRATUITO de lógica de programação ([Inscreva-se aqui](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/){: target="\_blank"})
 
 Em Dezembro de 2015 eu disponibilizei um minicurso de lógica de programação por e-mail, dentro do **{ Dicas de Programação }**. Após se inscrever, o aluno recebe as aulas por e-mail que são agendados automaticamente a partir da data da inscrição no minicurso.
 
