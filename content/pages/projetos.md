@@ -8,7 +8,7 @@ Descrevo abaixo os projetos que desenvolvo a noite. Porque sucesso se faz a noit
 
 [
 ![mpm](https://dm8sjho5caga5.cloudfront.net/images/logo/logoMpM-300x223.png){: style="float:left"}
-](http://musicasparamissa.com.br/){:target="\_blank"})
+](http://musicasparamissa.com.br/){:target="\_blank"}
 
 Este site eu criei junto com minha esposa Daiana em maio de 2013. Eu já escrevi um post completo sobre como nasceu o site, você poce acessar o post clicando no link abaixo.
 
