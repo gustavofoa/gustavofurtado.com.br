@@ -20,7 +20,7 @@ PATH = 'content'
 
 # Enable i18n plugin.
 PLUGIN_PATHS = ['./pelican-plugins']
-PLUGINS = ['i18n_subsites']
+PLUGINS = ['i18n_subsites', 'sitemap',]
 # Enable Jinja2 i18n extension used to parse translations.
 JINJA_EXTENSIONS = ['jinja2.ext.i18n']
 
@@ -98,3 +98,17 @@ ADSENSE_AD_CLIENT = 'ca-pub-6041601556788047'
 ADSENSE_AD_SLOT = '2355030574'
 SHOW_ADSENSE_ARTICLE_TOP = True
 SHOW_ADSENSE_ARTICLE_BOTTOM = True
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'weekly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
