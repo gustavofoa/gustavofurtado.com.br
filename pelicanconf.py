@@ -29,7 +29,8 @@ TIMEZONE = 'America/Sao_Paulo'
 I18N_TEMPLATES_LANG = 'pt_BR'
 DEFAULT_LANG = 'pt_BR'
 OG_LOCALE = 'pt_BR'
-LOCALE = 'pt_BR'
+# LOCALE = 'en'
+
 DATE_FORMATS = {
     'en': '%B %d, %Y',
     'pt_BR': '%d de %B de %Y',
@@ -57,8 +58,8 @@ SOCIAL = (('linkedin', 'https://br.linkedin.com/in/gustavo-furtado-ab5703a'),
           ('rss', '//gustavofurtado.com.br/feeds/all.atom.xml'))
 DEFAULT_PAGINATION = 10
 
-MENUITEMS = (('Archives', '/archives.html'),
-             ('Categories', '/categories.html'),)
+MENUITEMS = (('Arquivo', '/archives.html'),
+             ('Categorias', '/categories.html'),)
 
 
 # Uncomment following line if you want document-relative URLs when developing
