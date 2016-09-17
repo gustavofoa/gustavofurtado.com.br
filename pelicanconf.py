@@ -29,7 +29,8 @@ TIMEZONE = 'America/Sao_Paulo'
 I18N_TEMPLATES_LANG = 'pt_BR'
 DEFAULT_LANG = 'pt_BR'
 OG_LOCALE = 'pt_BR'
-# LOCALE = 'en'
+LANGUAGE = 'pt_BR'
+LOCALE = 'pt_BR.UTF-8'
 
 DATE_FORMATS = {
     'en': '%B %d, %Y',
@@ -98,7 +99,7 @@ GOOGLE_TAG_MANAGER = ''
 ADSENSE = {
   'adClientId' : 'ca-pub-6041601556788047',
   'adSlot' : {
-    'aside_250x250' : '4256435372',
+    'aside_250x250' : '',
     'articleBottom_responsible' : '8686634979',
     'top_responsible' : '8686634979',
     'homeBottom_responsible' : '8686634979'
