@@ -5,42 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://gustavofurtado.com.br/</loc>
-<lastmod>2016-09-15T16:18:58-00:00</lastmod>
+<lastmod>2016-09-17T11:06:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/archives.html</loc>
-<lastmod>2016-09-15T16:18:58-00:00</lastmod>
+<lastmod>2016-09-17T11:06:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/tags.html</loc>
-<lastmod>2016-09-15T16:18:58-00:00</lastmod>
+<lastmod>2016-09-17T11:06:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/categories.html</loc>
-<lastmod>2016-09-15T16:18:58-00:00</lastmod>
+<lastmod>2016-09-17T11:06:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/pages/sobre.html</loc>
-<lastmod>2016-09-15T16:18:58-00:00</lastmod>
+<lastmod>2016-09-17T11:06:34-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/pages/projetos.html</loc>
-<lastmod>2016-09-15T16:18:58-00:00</lastmod>
+<lastmod>2016-09-17T11:06:34-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -48,6 +48,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://gustavofurtado.com.br/meu-primeiro-hangout.html</loc>
 <lastmod>2015-12-14T15:35:00-02:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://gustavofurtado.com.br/voce-tem-a-vida-que-merece.html</loc>
+<lastmod>2015-12-05T12:54:00-02:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -75,7 +82,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://gustavofurtado.com.br/category/empreendedorismo.html</loc>
-<lastmod>2015-12-03T19:48:00-03:06</lastmod>
+<lastmod>2015-12-05T12:54:00-03:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -90,6 +97,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://gustavofurtado.com.br/author/gustavo-furtado-de-oliveira-alves.html</loc>
 <lastmod>2015-12-14T15:35:00-03:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://gustavofurtado.com.br/author/gustavofoa.html</loc>
+<lastmod>2015-12-05T12:54:00-03:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
