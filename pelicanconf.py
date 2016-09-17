@@ -26,10 +26,10 @@ JINJA_EXTENSIONS = ['jinja2.ext.i18n']
 
 #language
 TIMEZONE = 'America/Sao_Paulo'
-I18N_TEMPLATES_LANG = 'en'
-DEFAULT_LANG = 'en'
+I18N_TEMPLATES_LANG = 'pt_BR'
+DEFAULT_LANG = 'pt_BR'
 OG_LOCALE = 'pt_BR'
-# LOCALE = 'pt_BR'
+LOCALE = 'pt_BR'
 DATE_FORMATS = {
     'en': '%B %d, %Y',
     'pt_BR': '%d de %B de %Y',
@@ -94,10 +94,15 @@ DISQUS_SITENAME = 'gustavofurtado'
 GOOGLE_ANALYTICS = ''
 GOOGLE_TAG_MANAGER = ''
 
-ADSENSE_AD_CLIENT = 'ca-pub-6041601556788047'
-ADSENSE_AD_SLOT = '2355030574'
-SHOW_ADSENSE_ARTICLE_TOP = True
-SHOW_ADSENSE_ARTICLE_BOTTOM = True
+ADSENSE = {
+  'adClientId' : 'ca-pub-6041601556788047',
+  'adSlot' : {
+    'aside' : '',
+    'articleBottom' : '2355030574',
+    'top' : '2355030574',
+    'homeBottom' : '2355030574'
+  }
+}
 
 SITEMAP = {
     'format': 'xml',
