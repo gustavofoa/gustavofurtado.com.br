@@ -17,11 +17,19 @@ PYGMENTS_STYLE = 'monokai'
 
 PATH = 'content'
 
+
+# Enable i18n plugin.
+PLUGIN_PATHS = ['./pelican-plugins']
+PLUGINS = ['i18n_subsites', 'sitemap',]
+# Enable Jinja2 i18n extension used to parse translations.
+JINJA_EXTENSIONS = ['jinja2.ext.i18n']
+
 #language
 TIMEZONE = 'America/Sao_Paulo'
-DEFAULT_LANG = 'pt_BR'
+I18N_TEMPLATES_LANG = 'en'
+DEFAULT_LANG = 'en'
 OG_LOCALE = 'pt_BR'
-# I18N_TEMPLATES_LANG = 'pt_BR'
+# LOCALE = 'pt_BR'
 DATE_FORMATS = {
     'en': '%B %d, %Y',
     'pt_BR': '%d de %B de %Y',
@@ -48,6 +56,9 @@ SOCIAL = (('linkedin', 'https://br.linkedin.com/in/gustavo-furtado-ab5703a'),
           ('twitter', 'https://twitter.com/gustavofoa'),
           ('rss', '//gustavofurtado.com.br/feeds/all.atom.xml'))
 DEFAULT_PAGINATION = 10
+
+MENUITEMS = (('Archives', '/archives.html'),
+             ('Categories', '/categories.html'),)
 
 
 # Uncomment following line if you want document-relative URLs when developing
@@ -79,12 +90,25 @@ CUSTOM_CSS = 'static/custom.css'
 
 MAIN_MENU = True
 
-DISQUS_SITENAME = 'http://gustavofurtado.com.br'
+DISQUS_SITENAME = 'gustavofurtado'
 GOOGLE_ANALYTICS = ''
 GOOGLE_TAG_MANAGER = ''
 
-# Enable i18n plugin.
-PLUGIN_PATHS = ['./pelican-plugins']
-PLUGINS = ['i18n_subsites']
-# Enable Jinja2 i18n extension used to parse translations.
-JINJA_EXTENSIONS = ['jinja2.ext.i18n']
+ADSENSE_AD_CLIENT = 'ca-pub-6041601556788047'
+ADSENSE_AD_SLOT = '2355030574'
+SHOW_ADSENSE_ARTICLE_TOP = True
+SHOW_ADSENSE_ARTICLE_BOTTOM = True
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'weekly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
