@@ -97,10 +97,10 @@ GOOGLE_TAG_MANAGER = ''
 ADSENSE = {
   'adClientId' : 'ca-pub-6041601556788047',
   'adSlot' : {
-    'aside' : '',
-    'articleBottom' : '2355030574',
-    'top' : '2355030574',
-    'homeBottom' : '2355030574'
+    'aside_250x250' : '4256435372',
+    'articleBottom_responsible' : '8686634979',
+    'top_responsible' : '8686634979',
+    'homeBottom_responsible' : '8686634979'
   }
 }
 
