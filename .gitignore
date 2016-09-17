@@ -3,3 +3,6 @@ output/
 *.pid
 __pycache__
 *.pyc
+
+# Dependency directories
+node_modules
