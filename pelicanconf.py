@@ -60,7 +60,8 @@ SOCIAL = (('linkedin', 'https://br.linkedin.com/in/gustavo-furtado-ab5703a'),
 DEFAULT_PAGINATION = 10
 
 MENUITEMS = (('Arquivo', '/archives.html'),
-             ('Categorias', '/categories.html'),)
+             ('Categorias', '/categories.html'),
+             ('Tags', '/tags.html'),)
 
 
 # Uncomment following line if you want document-relative URLs when developing
