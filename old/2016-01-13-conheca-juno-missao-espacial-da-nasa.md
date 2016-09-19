@@ -1,10 +1,8 @@
-Conheça JUNO, missão espacial da NASA!
-######################################
-:date: 2016-01-13 09:02
-:author: gustavo.foa
-:category: O que faço
-:slug: conheca-juno-missao-espacial-da-nasa
-:status: published
+title: Conheça JUNO, missão espacial da NASA!
+date: 2016-01-13 09:02
+author: Gustavo Furtado de Oliveira Alves
+category: O que faço
+slug: conheca-juno-missao-espacial-da-nasa
 
 Provavelmente ano passado (2015) você ficou conhecendo um pouco mais
 sobre o planeta Plutão. Descobriu que ele tem um coração. Bom, pelo

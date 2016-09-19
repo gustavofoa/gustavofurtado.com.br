@@ -1,10 +1,8 @@
-Perseguindo a excelência
-########################
-:date: 2016-03-02 08:00
-:author: gustavo.foa
-:category: Carreira, Empreendedorismo, O que penso
-:slug: perseguindo-a-excelencia
-:status: published
+title: Perseguindo a excelência
+date: 2016-03-02 08:00
+author: Gustavo Furtado de Oliveira Alves
+category: Carreira, Empreendedorismo, O que penso
+slug: perseguindo-a-excelencia
 
 Todo mundo pode ser bom em algo. Muitas vezes o que falta nas pessoas é
 dedicação direcionada ao lugar certo. Todo mundo pode ter sucesso em

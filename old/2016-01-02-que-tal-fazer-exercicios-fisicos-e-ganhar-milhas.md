@@ -1,10 +1,8 @@
-Que tal fazer exercícios físicos e ganhar milhas?
-#################################################
-:date: 2016-01-02 14:05
-:author: gustavo.foa
-:category: O que faço
-:slug: que-tal-fazer-exercicios-fisicos-e-ganhar-milhas
-:status: published
+title: Que tal fazer exercícios físicos e ganhar milhas?
+date: 2016-01-02 14:05
+author: Gustavo Furtado de Oliveira alves
+category: O que faço
+slug: que-tal-fazer-exercicios-fisicos-e-ganhar-milhas
 
 Já pensou ficar mais saudável fazendo exercícios físicos e de quebra
 ganhar pontos em programas de fidelidade que podem ser trocados por

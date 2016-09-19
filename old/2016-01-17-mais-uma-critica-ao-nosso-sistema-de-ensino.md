@@ -1,10 +1,8 @@
-Por que a gente não aprende ciência direito?
-############################################
-:date: 2016-01-17 15:15
-:author: gustavo.foa
-:category: O que faço
-:slug: mais-uma-critica-ao-nosso-sistema-de-ensino
-:status: published
+title: Por que a gente não aprende ciência direito?
+date: 2016-01-17 15:15
+author: Gustavo Furtado de Oliveira Alves
+category: O que faço
+slug: mais-uma-critica-ao-nosso-sistema-de-ensino
 
 Uma das ciências que mais gosto de aprender hoje em dia é a astronomia,
 principalmente depois que estudei um pouco mais sobre isso no meu

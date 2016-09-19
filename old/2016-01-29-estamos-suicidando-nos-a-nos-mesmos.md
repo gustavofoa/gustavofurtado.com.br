@@ -1,10 +1,8 @@
-Estamos suicidando-nos a nós mesmos!
-####################################
-:date: 2016-01-29 21:31
-:author: gustavo.foa
-:category: O que penso
-:slug: estamos-suicidando-nos-a-nos-mesmos
-:status: published
+title: Estamos suicidando-nos a nós mesmos!
+date: 2016-01-29 21:31
+author: Gustavo Furtado de Oliveira Alves
+category: O que penso
+slug: estamos-suicidando-nos-a-nos-mesmos
 
 Quando o sistema econômico que conhecemos foi desenvolvido, tudo parecia
 infinito. Ouro, diamante, carvão e todo tipo de minério, posteriormente

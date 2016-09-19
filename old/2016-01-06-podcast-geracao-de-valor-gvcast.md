@@ -1,10 +1,8 @@
-Podcast Geração de Valor (GVCast)
-#################################
-:date: 2016-01-06 13:45
-:author: gustavo.foa
-:category: Empreendedorismo, O que ouço
-:slug: podcast-geracao-de-valor-gvcast
-:status: published
+title: Podcast Geração de Valor (GVCast)
+date: 2016-01-06 13:45
+author: Gustavo Furtado de Oliveira Alves
+category: Empreendedorismo, O que ouço
+slug: podcast-geracao-de-valor-gvcast
 
 Umas das grandes referências que tenho de empreendedorismo é o Flávio
 Augusto.

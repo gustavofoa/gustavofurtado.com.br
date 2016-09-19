@@ -1,10 +1,9 @@
-Minha experiência com o Mova Mais
-#################################
-:date: 2016-01-11 09:00
-:author: gustavo.foa
-:category: O que faço
-:slug: minha-experiencia-com-o-mova-mais
-:status: published
+title: Minha experiência com o Mova Mais
+date: 2016-01-11 09:00
+author: Gustavo Furtado de Oliveira Alves
+category: O que faço
+slug: minha-experiencia-com-o-mova-mais
+status: published
 
 Durante a semana passada eu mantive o meu compromisso de
 fazer caminhadas ou corridas, todo novo hábito começa com força de

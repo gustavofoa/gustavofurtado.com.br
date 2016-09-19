@@ -13,7 +13,6 @@ before_install:
   - echo "  IdentityFile ~/.ssh/publish-key" >> ~/.ssh/config
   - git remote set-url origin git@github.com:gustavofoa/gustavofurtado.com.br.git
   - git fetch origin -f master:master
-  - sudo locale-gen pt_BR
 install:
   - pip install --upgrade pip
   - pip install -r requirements.txt
