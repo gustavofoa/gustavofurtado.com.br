@@ -1,10 +1,10 @@
 title: Por que a gente não aprende ciência direito?
 date: 2016-01-17 15:15
 author: Gustavo Furtado de Oliveira Alves
-category: O que faço
+tags: O que faço
 slug: mais-uma-critica-ao-nosso-sistema-de-ensino
 
-Uma das ciências que mais gosto de aprender hoje em dia é a astronomia,
+Uma das ciências que mais gosto de aprender nas horas vagas hoje em dia é a astronomia,
 principalmente depois que estudei um pouco mais sobre isso no meu
 mestrado. Fico fascinado com tudo que existe no universo. Mas
 infelizmente astronomia não é um assunto de se conversar com a maioria
@@ -17,7 +17,7 @@ astronomia é o mesmo que tenho sobre programação. Por que isso não
 pessoal, mas penso que uma das áreas da ciência que mais trouxe evolução
 para a humanidade nos últimos séculos e que poderia trazer muito mais
 evolução se fosse mais acessível, é tratada apenas como umas quatro ou
-cinco aulinhas da disciplina "ciências" nas nossas escolas. Porque
+cinco aulinhas da disciplina "ciências" nas nossas escolas. Porque será que
 outros países são mil vezes mais avançados tecnologicamente do que o
 Brasil?
 
@@ -46,7 +46,7 @@ ideologias que não condiz com os valores que a maioria dos pais deseja
 para os seus filhos.
 
 Por que ensinar criança de ensino fundamental a fazer sexo e não
-ensiná-la lógica de programação? Porque ensinar o homosexualismo ao
+ensiná-la lógica de programação? Porque ensinar o que menino beijar menino é certo ao
 invés de ensinar o que é uma elipse, que aliás, é movimento mais básico
 de todos os corpos em movimento no espaço?! E tão simples quanto outras
 formas geométricas que aprendemos no ensino básico como circulo (que é
@@ -62,5 +62,3 @@ ensino do seu país! Qualquer que seja o país! Se você não aprender e não
 ensinar os seus filhos a serem críticos, você estará apenas sendo
 manipulado junto com a grande massa da população que só faz cagada nas
 urnas eleitorais!
-
-Um fraternal abraço!
