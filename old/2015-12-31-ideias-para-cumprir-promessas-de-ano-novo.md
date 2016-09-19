@@ -91,7 +91,7 @@ os seus sonhos.
 
 Feliz 2016!!! Que seja um ano de grandes realizações.
 
-.. |promessa| image:: http://gustavofurtado.com.br/wp-content/uploads/2014/01/promessa.png
+.. |promessa| image:: /images/posts/promessa.png
    :class: aligncenter size-full wp-image-1337
    :width: 320px
    :height: 306px
