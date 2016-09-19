@@ -8,7 +8,7 @@ Muita gente acha que empreender é ter uma grande ideia para se tornar o
 novo Zuckerberg. Esqueça esse pensamento, empreender é muito mais
 trabalho do que ideia.
 
-Ideia você levanta a mão e pega uma. A força de vontade de fazer
+Ideia, você levanta a mão e pega uma. A força de vontade de fazer
 acontecer é o que faz um empreendedor.
 
 Claro que trabalhar duro na ideia errada também não adianta nada, por
@@ -18,7 +18,7 @@ errado. Mas também não encontrará a riqueza apenas encontrando o lugar a
 ser cavado.
 
 Quer ter sucesso? Levanta a mão, pega a sua **melhor** ideia e dê o seu
-melhor para realiza-la.
+melhor para realizá-la.
 
 Murilo Gun costuma dizer que empreendedorismo é 1% inspiração 99%
 transpiração. Concordo muito!
