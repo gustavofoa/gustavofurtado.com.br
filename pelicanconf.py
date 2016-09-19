@@ -30,7 +30,7 @@ I18N_TEMPLATES_LANG = 'pt_BR'
 DEFAULT_LANG = 'pt_BR'
 OG_LOCALE = 'pt_BR'
 LANGUAGE = 'pt_BR'
-LOCALE = 'pt_BR.UTF-8'
+# LOCALE = 'pt_BR.UTF-8'
 
 DATE_FORMATS = {
     'en': '%B %d, %Y',
