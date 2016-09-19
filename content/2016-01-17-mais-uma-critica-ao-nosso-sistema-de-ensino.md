@@ -1,7 +1,8 @@
 title: Por que a gente não aprende ciência direito?
 date: 2016-01-17 15:15
 author: Gustavo Furtado de Oliveira Alves
-tags: O que faço
+category: Pensamentos
+tags: O que faço, O que penso
 slug: mais-uma-critica-ao-nosso-sistema-de-ensino
 
 Uma das ciências que mais gosto de aprender nas horas vagas hoje em dia é a astronomia,
