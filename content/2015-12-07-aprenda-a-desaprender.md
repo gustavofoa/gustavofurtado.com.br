@@ -2,6 +2,7 @@ title: Aprenda a desaprender
 date: 2015-12-07 17:50
 author: Gustavo Furtado de Oliveira Alves
 category: Empreendedorismo
+tags: O que penso
 slug: aprenda-a-desaprender
 
 Eu costumava pensar que quanto mais eu aprendesse melhor. Até eu descobrir que tão importante quanto aprender é **desaprender**.

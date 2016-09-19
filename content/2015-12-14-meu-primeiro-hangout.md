@@ -2,6 +2,7 @@ title: Meu primeiro hangout
 date: 2015-12-14 15:35
 author: Gustavo Furtado de Oliveira Alves
 category: log
+tags: O que faço
 slug: meu-primeiro-hangout
 
 Quinta-feira passada eu fiz uma palestra online gratuita (webnário ou seminário online), usando uma ferramenta do google chamada Hangout.

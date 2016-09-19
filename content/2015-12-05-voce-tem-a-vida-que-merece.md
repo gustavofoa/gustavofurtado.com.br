@@ -2,6 +2,7 @@ title: Você tem a vida que merece!
 date: 2015-12-05 12:54
 author: gustavo.foa
 category: Empreendedorismo
+tags: O que penso
 slug: voce-tem-a-vida-que-merece
 
 Essa frase é muito forte e você pode enxergá-la do jeito que quiser: como um insulto, uma sacudida de um amigo que quer te ver melhor ou com satisfação.

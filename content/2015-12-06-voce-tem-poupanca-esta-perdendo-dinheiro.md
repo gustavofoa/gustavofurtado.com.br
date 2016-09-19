@@ -2,6 +2,7 @@ title: Você tem poupança? Está perdendo dinheiro!
 date: 2015-12-06 13:18
 author: Gustavo Furtado de Oliveira Alves
 category: Educação Financeira
+tags: O que penso
 slug: voce-tem-poupanca-esta-perdendo-dinheiro
 
 Muitas pessoas antigamente tinham o costume de guardar dinheiro embaixo do colchão. Esse costume ficou tão enraizado no brasileiro, que hoje muitos confundem “guardar dinheiro” com investimento.

@@ -1,7 +1,8 @@
 title: Levanta a mão e pegue uma ideia
 date: 2016-01-08 13:45
 author: Gustavo Furtado de Oliveira Alves
-category: Empreendedorismo, O que ouço
+category: Empreendedorismo
+tags: O que ouço
 slug: levanta-a-mao-e-pegue-uma-ideia
 
 Muita gente acha que empreender é ter uma grande ideia para se tornar o

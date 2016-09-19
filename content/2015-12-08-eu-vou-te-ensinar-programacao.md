@@ -2,6 +2,7 @@ title: Eu vou te ensinar programação!
 date: 2015-12-08 18:27
 author: Gustavo Furtado de Oliveira Alves
 category: Carreira
+tags: O que faço
 slug: eu-vou-te-ensinar-programacao
 
 Programação é uma disciplina que faz parte da nova alfabetização. Assim como ler e escrever, agora você precisa aprender a programar. Mas pode ficar tranquilo. É fácil!

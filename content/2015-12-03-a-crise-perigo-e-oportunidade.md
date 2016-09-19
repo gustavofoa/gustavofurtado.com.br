@@ -2,6 +2,7 @@ title: A crise: Perigo e oportunidade
 date: 2015-12-03 19:48
 author: Gustavo Furtado de Oliveira Alves
 category: Empreendedorismo
+tags: O que penso
 slug: a-crise-perigo-e-oportunidade
 
 Tudo bem que a palavra [crise em português não tem origem chinesa]. Essa reflexão ficou popular através do ex presidente Norte Americano John Kennedy, quando ele disse:
