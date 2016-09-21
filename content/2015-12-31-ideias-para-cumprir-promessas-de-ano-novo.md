@@ -1,7 +1,8 @@
 title: Ideias para cumprir as promessas de ano novo
 date: 2015-12-31 10:24
 author: Gustavo Furtado de Oliveira Alves
-category: O que faço
+category: Dicas
+tags: O que faço
 slug: ideias-para-cumprir-promessas-de-ano-novo
 
 Todo final/começo de ano é a mesma coisa, todo mundo faz as suas
