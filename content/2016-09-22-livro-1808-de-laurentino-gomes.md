@@ -41,7 +41,9 @@ Ficou interessado na leitura deste livro?
 
 Você pode comprá-lo no link abaixo:
 
+<center>
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=tf_til&ad_type=product_link&tracking_id=gustafurta-20&marketplace=amazon&region=BR&placement=8525057517&asins=8525057517&linkId=ZAHE3JTN23JB5KKX&show_border=true&link_opens_in_new_window=true">
 </iframe>
+</center>
 
 A leitura vale a pena.

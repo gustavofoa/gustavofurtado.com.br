@@ -94,7 +94,7 @@ CUSTOM_CSS = 'static/custom.css'
 MAIN_MENU = True
 
 DISQUS_SITENAME = 'gustavofurtado'
-GOOGLE_ANALYTICS = ''
+GOOGLE_ANALYTICS = 'UA-36232166-2'
 GOOGLE_TAG_MANAGER = ''
 
 ADSENSE = {
