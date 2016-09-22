@@ -1,17 +1,20 @@
-Como criar um site pra minha empresa
-####################################
-:date: 2014-02-10 14:32
-:author: gustavo.foa
-:category: Uncategorized
-:slug: criar-site-pra-empresa
-:status: draft
+title: Como criar um site pra minha empresa
+date: 2016-09-22
+author: Gustavo Furtado de Oliveira Alves
+category: Empreendedorismo
+tags: O que penso, O que faço
+slug: criar-site-pra-empresa
 
 Muitos pequenos empresários querem entrar na era da internet e desejam
 criar um site para a própria empresa. É possível criar site de todo tipo
 e de todo preço, tudo depende da quantidade de funcionalidades que o
-site terá. Acontece que muitos pequenos empresários desejam criar um
-site apenas pra colocar sua empresa visível na internet. Ter um site
-transmite seriedade sobre o seu negócio, além de abrir um leque de
+site terá. Mas o problema é que muitos pequenos empresários desejam criar um
+site apenas pra colocar sua empresa visível na internet.
+
+Tudo bem que ter um site transmite seriedade sobre o seu negócio.
+Entretanto a internet vai muito além de criar um site,
+ou uma página no facebook, twiter, ou um canal no youtube.
+criar uma página além de abrir um leque de
 oportunidades com as dimensões da internet. É o caso da oficina mecânica
 da esquina, da padaria, da sorveteria, do salão de beleza, do pequeno
 escritório de advogado, etc ...

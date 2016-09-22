@@ -41,7 +41,7 @@ module.exports = function (grunt) {
     connect: {
       server: {
         options: {
-          port: 9000,
+          port: 9001,
           livereload: 35729,
           base: 'output',
           hostname: 'localhost',
