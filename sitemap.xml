@@ -5,43 +5,50 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://gustavofurtado.com.br/</loc>
-<lastmod>2016-10-13T17:06:43-00:00</lastmod>
+<lastmod>2016-12-16T14:13:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/archives.html</loc>
-<lastmod>2016-10-13T17:06:43-00:00</lastmod>
+<lastmod>2016-12-16T14:13:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/tags.html</loc>
-<lastmod>2016-10-13T17:06:43-00:00</lastmod>
+<lastmod>2016-12-16T14:13:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/categories.html</loc>
-<lastmod>2016-10-13T17:06:43-00:00</lastmod>
+<lastmod>2016-12-16T14:13:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/pages/sobre.html</loc>
-<lastmod>2016-10-13T17:06:43-00:00</lastmod>
+<lastmod>2016-12-16T14:13:19-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/pages/projetos.html</loc>
-<lastmod>2016-10-13T17:06:43-00:00</lastmod>
+<lastmod>2016-12-16T14:13:19-00:00</lastmod>
 <changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://gustavofurtado.com.br/jesus-e-o-rei-a-quem-devemos-servir.html</loc>
+<lastmod>2016-11-20T00:00:00-02:00</lastmod>
+<changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -200,15 +207,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://gustavofurtado.com.br/tag/o-que-leio.html</loc>
-<lastmod>2016-09-22T00:00:00-03:06</lastmod>
+<loc>http://gustavofurtado.com.br/category/reflexoes-sobre-a-liturgia.html</loc>
+<lastmod>2016-11-20T00:00:00-03:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/tag/o-que-penso.html</loc>
-<lastmod>2016-03-02T08:00:00-03:06</lastmod>
+<lastmod>2016-11-20T00:00:00-03:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -228,8 +235,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://gustavofurtado.com.br/author/gustavo-furtado-de-oliveira-alves.html</loc>
+<loc>http://gustavofurtado.com.br/tag/o-que-leio.html</loc>
 <lastmod>2016-09-22T00:00:00-03:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://gustavofurtado.com.br/author/gustavo-furtado-de-oliveira-alves.html</loc>
+<lastmod>2016-11-20T00:00:00-03:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
