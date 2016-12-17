@@ -97,14 +97,17 @@ DISQUS_SITENAME = 'gustavofurtado'
 GOOGLE_ANALYTICS = 'UA-36232166-2'
 GOOGLE_TAG_MANAGER = ''
 
-ADSENSE = {
-  'adClientId' : 'ca-pub-6041601556788047',
-  'adSlot' : {
-    'aside_250x250' : '',
-    'articleBottom_responsible' : '8686634979',
-    'top_responsible' : '8686634979',
-    'homeBottom_responsible' : '8686634979'
-  }
+GOOGLE_ADSENSE = {
+    'ca_id': 'ca-pub-6041601556788047',    # Your AdSense ID
+    'page_level_ads': True,          # Allow Page Level Ads (mobile)
+    'ads': {
+        'aside': '',          # Side bar banner (all pages)
+        'main_menu': '',      # Banner before main menu (all pages)
+        'index_top': '8686634979',      # Banner after main menu (index only)
+        'index_bottom': '8686634979',   # Banner before footer (index only)
+        'article_top': '8686634979',    # Banner after article title (article only)
+        'article_bottom': '8686634979', # Banner after article content (article only)
+    }
 }
 
 SITEMAP = {
