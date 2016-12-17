@@ -1,8 +1,8 @@
 title: Jesus é o Rei a quem devemos servir
 date: 2016-11-20
 author: Gustavo Furtado de Oliveira Alves
-category: Reflexões sobre a liturgia
-tags: O que penso
+category: Músicas para Missa
+tags: O que penso, o que faço
 slug: jesus-e-o-rei-a-quem-devemos-servir
 
 Sobre a [liturgia de hoje (20 de novembro de 2016)](http://www.musicasparamissa.com.br/sugestoes-para/34o-domingo-do-tempo-comum-solenidade-de-nosso-senhor-jesus-cristo-rei-do-universo-ano-c/) ...
