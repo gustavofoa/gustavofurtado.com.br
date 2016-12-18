@@ -16,7 +16,7 @@ Ele fundou a escola de Inglês Wiseup, vendeu a empresa, e hoje ele é dono do c
 Enfim, a alguns anos ele compartilha o mindset milionário dele através das
 redes sociais no projeto [**Geração de Valor**](<https://www.facebook.com/GeracaodeValor/).
 Agora o Geração de Valor também pública conteúdo no formato de podcasts: o
-[**GVCAST**](http://geracaodevalor.com/gvcast/.
+[**GVCAST**](http://geracaodevalor.com/gvcast/).
 
 Toda sexta-feira tem um podcast novo e eu ouço todos!
 
