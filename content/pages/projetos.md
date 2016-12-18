@@ -1,7 +1,7 @@
 Title: Meus projetos
 slug: projetos
 
-Além do meu trabalho na Mult-e, também desenvolvo alguns projetos nas horas vagas.
+Além do meu trabalho como desenvolvedor de softwares, também desenvolvo alguns projetos nas horas vagas.
 Descrevo abaixo os projetos que desenvolvo a noite. Porque sucesso se faz a noite!
 
 ##Músicas para Missa ([musicasparamissa.com.br](http://musicasparamissa.com.br/){: target="\_blank"})
