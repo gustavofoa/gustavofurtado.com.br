@@ -2,7 +2,7 @@ title: No natal, não confunda alegria com prazer!
 date: 2016-12-17
 author: Gustavo Furtado de Oliveira Alves
 category: Músicas para Missa
-tags: O que penso, o que faço
+tags: O que penso, O que faço
 slug: no-natal-nao-confunda-alegria-com-prazer
 
 Acho que não preciso te lembrar quem é o aniversariante do próximo dia 25 de dezembro né?
