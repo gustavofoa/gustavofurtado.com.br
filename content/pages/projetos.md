@@ -16,7 +16,7 @@ O objetivo do site é ajudar músicos que tocam/cantam em missas.
 Como você deve saber, as músicas de uma missa devem seguir uma liturgia e são muitas variáveis e regras que influenciam na escolha de cada música, por exemplo, tempo litúrgico, o momento da missa, festas, solenidades, etc. Neste contexto o site [músicas para missa](http://musicasparamissa.com.br){: target="\_blank"} oferece sugestões de músicas apropriadas para cada momento da missa de cada dia.
 
 Temos sugestões de músicas para missas de todos os dias, e as sugestões são acompanhadas das leituras da liturgia do dia.
-Além disso, toda semana disponibiliamos uma melodia para o salmo da missa de domingo gravada por nós e enviamos um e-mail para quem se inscreve no nosso site com reflexões sobre a liturgia, novidades e dicas.
+Além disso, toda semana disponibilizamos uma melodia para o salmo da missa de domingo gravada por nós e enviamos um e-mail para quem se inscreve no nosso site com reflexões sobre a liturgia, novidades e dicas.
 
 ####Assunto técnico do Músicas para Missa
 
