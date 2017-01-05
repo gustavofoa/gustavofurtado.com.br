@@ -30,7 +30,7 @@ I18N_TEMPLATES_LANG = 'pt_BR'
 DEFAULT_LANG = 'pt_BR'
 OG_LOCALE = 'pt_BR'
 LANGUAGE = 'pt_BR'
-LOCALE = 'pt'
+LOCALE = 'pt_BR'
 
 DEFAULT_DATE_FORMAT = '%d de %B de %Y'
 
