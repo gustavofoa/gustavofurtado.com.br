@@ -12,8 +12,8 @@ before_install:
   - echo "Host github.com" >> ~/.ssh/config
   - echo "  IdentityFile ~/.ssh/publish-key" >> ~/.ssh/config
   - echo "Configure locale"
-  - apt-get install locales-all
   - locale-gen "pt_BR.UTF-8"
+  - dpkg-reconfigure locales
   - git remote set-url origin git@github.com:gustavofoa/gustavofurtado.com.br.git
   - git fetch origin -f gh-pages:gh-pages
 install:
