@@ -30,7 +30,9 @@ Sejamos gratos pela manifestação de Deus para nos salvar, levando o Evangelho 
 Para quem canta/toca na missa, aqui estão as sugestões de músicas que oferecemos no site [Músicas para Missa](http://www.musicasparamissa.com.br/):
 
 [**>> Sugestões de músicas para a missa da Solenidade da Epifania do Senhor**](http://www.musicasparamissa.com.br/sugestoes-para/solenidade-da-epifania-senhor/)
+
 E se for cantar o salmo, também gravamos uma melodia que você pode acessar aqui:
+
 [**>> Melodia para o Salmo 71(72) As Nações de Toda terra hão, de adorar-vos ó Senhor!**](http://www.musicasparamissa.com.br/musica/salmo-71-72-as-nacoes-de-toda-a-terra-hao-de-adorar-vos-o-senhor/)
 
 Este post é uma adaptação do e-mail que envio para os inscritos no site [Músicas para Missa](http://www.musicasparamissa.com.br/). Se quiser receber e-mails como este, basta se inscrever gratuitamente lá no site!
