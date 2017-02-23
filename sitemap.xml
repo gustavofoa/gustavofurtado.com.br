@@ -5,64 +5,43 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://gustavofurtado.com.br/</loc>
-<lastmod>2017-02-21T13:38:47-00:00</lastmod>
+<lastmod>2017-02-23T10:28:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/archives.html</loc>
-<lastmod>2017-02-21T13:38:47-00:00</lastmod>
+<lastmod>2017-02-23T10:28:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/tags.html</loc>
-<lastmod>2017-02-21T13:38:47-00:00</lastmod>
+<lastmod>2017-02-23T10:28:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/categories.html</loc>
-<lastmod>2017-02-21T13:38:47-00:00</lastmod>
+<lastmod>2017-02-23T10:28:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/sobre/</loc>
-<lastmod>2017-02-21T13:38:47-00:00</lastmod>
+<lastmod>2017-02-23T10:28:25-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/projetos/</loc>
-<lastmod>2017-02-21T13:38:47-00:00</lastmod>
+<lastmod>2017-02-23T10:28:25-00:00</lastmod>
 <changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://gustavofurtado.com.br/reflexao-sobre-a-epifania-do-senhor/</loc>
-<lastmod>2017-01-04T00:00:00-02:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://gustavofurtado.com.br/no-natal-nao-confunda-alegria-com-prazer/</loc>
-<lastmod>2016-12-17T00:00:00-02:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://gustavofurtado.com.br/jesus-e-o-rei-a-quem-devemos-servir/</loc>
-<lastmod>2016-11-20T00:00:00-02:00</lastmod>
-<changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -214,13 +193,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://gustavofurtado.com.br/category/musicas-para-missa.html</loc>
-<lastmod>2017-01-04T00:00:00-03:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://gustavofurtado.com.br/category/pensamentos.html</loc>
 <lastmod>2016-01-29T21:31:00-03:06</lastmod>
 <changefreq>daily</changefreq>
@@ -228,15 +200,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://gustavofurtado.com.br/tag/o-que-penso.html</loc>
-<lastmod>2017-01-04T00:00:00-03:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://gustavofurtado.com.br/tag/o-que-ouco.html</loc>
-<lastmod>2016-01-08T13:45:00-03:06</lastmod>
+<loc>http://gustavofurtado.com.br/tag/o-que-faco.html</loc>
+<lastmod>2016-03-02T08:00:00-03:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -249,15 +214,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://gustavofurtado.com.br/tag/o-que-faco.html</loc>
-<lastmod>2017-01-04T00:00:00-03:06</lastmod>
+<loc>http://gustavofurtado.com.br/tag/o-que-ouco.html</loc>
+<lastmod>2016-01-08T13:45:00-03:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://gustavofurtado.com.br/tag/o-que-penso.html</loc>
+<lastmod>2016-03-02T08:00:00-03:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/author/gustavo-furtado-de-oliveira-alves.html</loc>
-<lastmod>2017-01-04T00:00:00-03:06</lastmod>
+<lastmod>2016-09-22T00:00:00-03:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
