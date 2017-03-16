@@ -18,7 +18,7 @@ e que molda a forma como lidamos com o dinheiro.
 
 Além disso, o livro é mais sobre riqueza emocional do que riqueza financeira.
 O princípio do livro é que a sua vida financeira é um reflexo da sua mente.
-E se você quer mudar de vida financeira mente, essa mudança tem que começar dentro de você.
+E se você quer mudar de vida financeira, essa mudança tem que começar dentro de você.
 Trocando a sua mentalidade, que te trouxe a situação atual, pela forma como os ricos pensam sobre dinheiro.
 
 ##O exterior é resultado do interior
@@ -28,7 +28,7 @@ A gente logo pensa em fatores externos, como crise financeira de um país,
 alta de juros, etc. Mas o autor nos mostra
 que os fatores internos na nossa mente é tão importante quanto os fatores externos.
 
-Você já deve visto ou ouvido casos de pessoas que ficaram milionárias
+Você já deve ter visto ou ouvido casos de pessoas que ficaram milionárias
 e perderam tudo. Também deve conhecer alguma história de alguém que
 perdeu tudo e depois conquistou um patrimônio gigantesco.
 Um grande exemplo é o atual presidente dos Estados Unidos, Donald Trump.
@@ -52,6 +52,13 @@ mas você voltará a ficar sem dinheiro, pois é assim que a sua mente está con
 Você pode ter uma mente negativa, uma mente de alguns reais na conta,
 uma mente de cententas, milhares, milhões ou bilhões, como é o caso de Donald Trump.
 
+Com o passar do tempo a sua realidade tende a convergir para o que está na sua mente.
+
+Se você ganhou na loteria, mas tem uma mente pobre, você voltará a ser pobre.
+Se você perdeu todo seu patrimônio e tem uma mente milionária, você voltará a ser milionário.
+
+Simples assim.
+
 ##Modelo de dinheiro 
 
 O autor **T. Harv Eker** apresenta no livro o que ele chama de **Modelo de dinheiro**,
@@ -64,8 +71,9 @@ midia, religião, etc. A forma como a nossa mente foi moldada define o nosso fut
  
 O autor chama cada item que compõe o nosso modelo de dinheiro de *arquivos de dinheiro*.
 Esses arquivos são, na verdade, as respostas automaticas que nosso subconsciente
-dá para questões relacionadas ao dinheiro. Nossos hábitos mentais.
+dá para questões relacionadas ao dinheiro. Nossos **hábitos mentais**.
 O que foi programado na nossa mente durante toda a nossa vida, principalmente na infância.
+E agora rege as nossas decisões financeiras sem percebermos.
 
 Sempre que vamos tomar uma decisão que envolve dinheiro, nosso subconsciente decide com base
 no que está enraizado na nossa mente em relação ao assunto **dinheiro**.
@@ -78,8 +86,8 @@ Mas se você tem bons hábitos financeiros, você será rico com certeza.
 Mas como posso mudar os meus hábitos financeiros? 
 
 O livro nos apresenta um método para reprogramar o modelo mental de dinheiro que temos.
-Ou seja, remover os *arquivos* antigos que talvez não façam mais sentido para nós
-e criar *arquivos* novos que compõe a mente de um milionário.
+Na linguagem do autor, o método é basicamente remover os *arquivos* antigos que nos trouxe a situação atual da nossa vida
+e talvez não façam mais sentido para nós, e criar *arquivos* novos que compõe a mente de um milionário.
 
 São indicados 17 **arquivos de riqueza** que distinguem os ricos das demais pessoas.
 São itens muito importantes para mudarmos os nossos modos de pensar e agir em relação ao dinheiro.
@@ -97,15 +105,19 @@ mas crescer pessoalmente para se tornar maior do que qualquer adversidade.
 - Os gastos excessivos têm pouco a ver com o que você está comprando 
 e tudo a ver com a falta de satisfação na sua vida.
 
+Cada princípio apresenta a forma rica de pensar e expõe a forma pobre.
+Se você identificar que pensa como pobre, crie estratégias para aniquilar esse arquivo ruim de dinheiro
+e instalar na sua mente o **arquivo de riqueza** que é como os ricos pensam.
+
 ##Minhas considerações finais
 
 Eu gostei muito de ler este livro.
 
-Embora a linguagem do autor seja bastante de auto-ajuda, com declarações e afirmações em voz alta,
-gostei bastante do conteúdo do livro.
+Embora a linguagem do autor seja bastante de auto-ajuda, com declarações e afirmações em voz alta, etc.
+Gostei bastante do conteúdo do livro.
 
 As decisões que tomamos automaticamente no nosso subconsciente estão diretamente relacionadas
-com o que está enraizado na nossa mentalidade.
+com o que está enraizado na nossa mente e não percebemos.
 
 Acordar animado ou não para trabalhar, decidir comprar ou não alguma coisa que não contribui para alcançarmos o nosso objetivo
 são exemplos que decisões que tomamos automaticamente no nosso interior, sem pensar.
@@ -113,9 +125,9 @@ são exemplos que decisões que tomamos automaticamente no nosso interior, sem p
 E essas decisões são fortes!
 
 Nada segura uma mulher querendo comprar uma bolsa que combina com o sapato que ela comprou a uma semana.
-Mesmo que ela já esteja endividada.
+Mesmo que ela já esteja endividada até o pescoço!
 
-Concordo que mudar a mente é o primeiro passo para mudar a realidade financeira que vivemos.
+Concordo com o autor que mudar a mente é o primeiro passo para mudar a realidade financeira que vivemos.
 
 Ficou interessado na leitura deste livro?
 
