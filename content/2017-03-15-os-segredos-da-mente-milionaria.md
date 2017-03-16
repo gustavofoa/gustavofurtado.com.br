@@ -119,7 +119,7 @@ Concordo que mudar a mente é o primeiro passo para mudar a realidade financeira
 
 Ficou interessado na leitura deste livro?
 
-Você pode comprá-lo no link abaixo:
+Você pode comprá-lo no site da amazon no link abaixo:
 
 <center>
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=tf_til&ad_type=product_link&tracking_id=gustafurta-20&marketplace=amazon&region=BR&placement=8575422391&asins=8575422391&linkId=a8b398ace9e0c7bad005fc18226e1047&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066C0&bg_color=FFFFFF">
