@@ -9,13 +9,12 @@ Eu mesmo já me vi em situações bem ruins financeiramente.
 Mas por que deixamos as contas sairem do controle?
 Qual a raiz do problema?
 
-[![Os segredos da mente milionária](/images/posts/Os-segredos-da-mente-milionária.jpg){:style="float: right; width: 280px; padding: 10px;" }](https://www.amazon.com.br/gp/product/8575422391/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8575422391&linkCode=as2&tag=gustafurta-20&linkId=cd7b6f749f40df550f532202a32e3bbe)
-
-
 O livro [**Os segredos da mente milionária**](https://www.amazon.com.br/gp/product/8575422391/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8575422391&linkCode=as2&tag=gustafurta-20&linkId=cd7b6f749f40df550f532202a32e3bbe)
 aprofunda esse assunto apresentando o conceito de *modelo de dinheiro*
 – um conjunto de crenças que cada um de nós alimenta desde a infância
 e que molda a forma como lidamos com o dinheiro.
+
+[![Os segredos da mente milionária](/images/posts/Os-segredos-da-mente-milionária.jpg){:style="float: right; width: 280px; padding: 10px;" }](https://www.amazon.com.br/gp/product/8575422391/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8575422391&linkCode=as2&tag=gustafurta-20&linkId=cd7b6f749f40df550f532202a32e3bbe)
 
 Além disso, o livro é mais sobre riqueza emocional do que riqueza financeira.
 O princípio do livro é que a sua vida financeira é um reflexo da sua mente.
