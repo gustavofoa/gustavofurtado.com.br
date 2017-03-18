@@ -5,42 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://gustavofurtado.com.br/</loc>
-<lastmod>2017-03-16T23:11:55-00:00</lastmod>
+<lastmod>2017-03-18T15:03:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/archives.html</loc>
-<lastmod>2017-03-16T23:11:55-00:00</lastmod>
+<lastmod>2017-03-18T15:03:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/tags.html</loc>
-<lastmod>2017-03-16T23:11:55-00:00</lastmod>
+<lastmod>2017-03-18T15:03:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/categories.html</loc>
-<lastmod>2017-03-16T23:11:55-00:00</lastmod>
+<lastmod>2017-03-18T15:03:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/sobre/</loc>
-<lastmod>2017-03-16T23:11:55-00:00</lastmod>
+<lastmod>2017-03-18T15:03:32-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://gustavofurtado.com.br/projetos/</loc>
-<lastmod>2017-03-16T23:11:55-00:00</lastmod>
+<lastmod>2017-03-18T15:03:32-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -207,6 +207,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://gustavofurtado.com.br/tag/o-que-ouco.html</loc>
+<lastmod>2016-01-08T13:45:00-03:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://gustavofurtado.com.br/tag/o-que-faco.html</loc>
 <lastmod>2016-03-02T08:00:00-03:06</lastmod>
 <changefreq>daily</changefreq>
@@ -223,13 +230,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://gustavofurtado.com.br/tag/o-que-leio.html</loc>
 <lastmod>2017-03-16T00:00:00-03:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://gustavofurtado.com.br/tag/o-que-ouco.html</loc>
-<lastmod>2016-01-08T13:45:00-03:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
