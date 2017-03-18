@@ -120,7 +120,7 @@ As decisões que tomamos automaticamente no nosso subconsciente estão diretamen
 com o que está enraizado na nossa mente e não percebemos.
 
 Acordar animado ou não para trabalhar, decidir comprar ou não alguma coisa que não contribui para alcançarmos o nosso objetivo
-são exemplos que decisões que tomamos automaticamente no nosso interior, sem pensar.
+são exemplos de decisões que tomamos automaticamente no nosso interior, sem pensar.
 
 E essas decisões são fortes!
 
