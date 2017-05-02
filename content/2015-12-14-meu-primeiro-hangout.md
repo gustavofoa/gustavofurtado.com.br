@@ -1,5 +1,5 @@
 title: Meu primeiro hangout
-date: 2015-12-14 15:35
+date: 2015-12-14
 author: Gustavo Furtado de Oliveira Alves
 category: log
 tags: O que faço

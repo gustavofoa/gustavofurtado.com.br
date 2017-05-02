@@ -1,5 +1,5 @@
 title: Estamos suicidando-nos a nós mesmos!
-date: 2016-01-29 21:31
+date: 2016-01-29
 author: Gustavo Furtado de Oliveira Alves
 category: Pensamentos
 tags: O que penso

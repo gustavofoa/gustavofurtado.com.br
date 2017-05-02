@@ -1,5 +1,5 @@
 title: Perseguindo a excelência
-date: 2016-03-02 08:00
+date: 2016-03-02
 author: Gustavo Furtado de Oliveira Alves
 category: Empreendedorismo
 tags: O que penso, O que faço

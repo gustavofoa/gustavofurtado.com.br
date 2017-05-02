@@ -1,6 +1,6 @@
 title: Você tem a vida que merece!
-date: 2015-12-05 12:54
-author: gustavo.foa
+date: 2015-12-05
+author: Gustavo Furtado de Oliveira Alves
 category: Empreendedorismo
 tags: O que penso
 slug: voce-tem-a-vida-que-merece

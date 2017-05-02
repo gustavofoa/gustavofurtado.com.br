@@ -1,5 +1,5 @@
 title: Você tem poupança? Está perdendo dinheiro!
-date: 2015-12-06 13:18
+date: 2015-12-06
 author: Gustavo Furtado de Oliveira Alves
 category: Educação Financeira
 tags: O que penso

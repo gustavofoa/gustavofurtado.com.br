@@ -1,5 +1,5 @@
 title: Por que a gente não aprende ciência direito?
-date: 2016-01-17 15:15
+date: 2016-01-17
 author: Gustavo Furtado de Oliveira Alves
 category: Pensamentos
 tags: O que faço, O que penso

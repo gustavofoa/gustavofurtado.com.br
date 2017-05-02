@@ -1,5 +1,5 @@
 title: Levanta a mão e pegue uma ideia
-date: 2016-01-08 13:45
+date: 2016-01-08
 author: Gustavo Furtado de Oliveira Alves
 category: Empreendedorismo
 tags: O que ouço

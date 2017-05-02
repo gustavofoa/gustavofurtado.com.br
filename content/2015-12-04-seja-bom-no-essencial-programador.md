@@ -1,5 +1,5 @@
 title: Seja bom no essencial, programador
-date: 2015-12-04 09:46
+date: 2015-12-04
 author: Gustavo Furtado de Oliveira Alves
 category: Carreira
 tags: O que faço, O que penso

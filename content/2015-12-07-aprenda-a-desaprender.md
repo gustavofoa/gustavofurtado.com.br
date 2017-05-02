@@ -1,5 +1,5 @@
 title: Aprenda a desaprender
-date: 2015-12-07 17:50
+date: 2015-12-07
 author: Gustavo Furtado de Oliveira Alves
 category: Empreendedorismo
 tags: O que penso

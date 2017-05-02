@@ -1,5 +1,5 @@
 title: Podcast Geração de Valor (GVCast)
-date: 2016-01-06 13:45
+date: 2016-01-06
 author: Gustavo Furtado de Oliveira Alves
 category: Empreendedorismo
 tags: O que ouço

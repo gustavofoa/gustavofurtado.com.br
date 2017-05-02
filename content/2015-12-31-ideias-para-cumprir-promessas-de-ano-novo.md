@@ -1,5 +1,5 @@
 title: Ideias para cumprir as promessas de ano novo
-date: 2015-12-31 10:24
+date: 2015-12-31
 author: Gustavo Furtado de Oliveira Alves
 category: Dicas
 tags: O que faço

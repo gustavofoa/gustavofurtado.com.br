@@ -1,5 +1,5 @@
 title: A crise: Perigo e oportunidade
-date: 2015-12-03 19:48
+date: 2015-12-03
 author: Gustavo Furtado de Oliveira Alves
 category: Empreendedorismo
 tags: O que penso

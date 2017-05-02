@@ -1,5 +1,5 @@
 title: Eu vou te ensinar programação!
-date: 2015-12-08 18:27
+date: 2015-12-08
 author: Gustavo Furtado de Oliveira Alves
 category: Carreira
 tags: O que faço

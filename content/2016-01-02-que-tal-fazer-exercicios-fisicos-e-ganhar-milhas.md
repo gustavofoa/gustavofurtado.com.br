@@ -1,5 +1,5 @@
 title: Que tal fazer exercícios físicos e ganhar milhas?
-date: 2016-01-02 14:05
+date: 2016-01-02
 author: Gustavo Furtado de Oliveira alves
 category: Dicas
 tags: O que faço
