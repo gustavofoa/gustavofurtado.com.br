@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
-# from __future__ import unicode_literals
+from __future__ import unicode_literals
 
 AUTHOR = 'Gustavo Furtado'
 SITEURL = 'http://localhost:1337'

@@ -13,6 +13,8 @@ from pelicanconf import *
 SITEURL = 'http://gustavofurtado.com.br'
 RELATIVE_URLS = False
 
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
