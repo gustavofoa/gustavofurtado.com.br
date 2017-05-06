@@ -3,13 +3,14 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Gustavo Furtado'
-SITEURL = 'http://localhost:1337'
+# SITEURL = 'http://localhost:1337'
+SITEURL = 'http://gustavofurtado.com.br/'
 SITENAME = 'Gustavo Furtado de Oliveira Alves'
 SITETITLE = SITENAME
 SITESUBTITLE = 'Desenvolvedor de Softwares'
 SITEDESCRIPTION = 'Blog do Gustavo Furtado de Oliveia Alves'
-SITELOGO = '/images/profile.jpg'
-FAVICON = '/images/favicon/favicon.ico'
+SITELOGO = SITEURL + '/images/profile.jpg'
+FAVICON = SITEURL + '/images/favicon/favicon.ico'
 BROWSER_COLOR = '#333333'
 PYGMENTS_STYLE = 'monokai'
 
