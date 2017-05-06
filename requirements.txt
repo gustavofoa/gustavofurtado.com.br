@@ -1,5 +1,5 @@
 fabric
-pelican
+pelican=3.6
 markdown
 ghp-import
 BeautifulSoup4
