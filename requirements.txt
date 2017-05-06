@@ -1,3 +1,4 @@
-pelican==3.6
+fabric
+pelican
+markdown
 ghp-import
-Markdown
