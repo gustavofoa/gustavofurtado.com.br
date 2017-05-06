@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Gustavo Furtado'
 # SITEURL = 'http://localhost:1337'
-SITEURL = 'http://gustavofurtado.com.br/'
+SITEURL = 'gustavofurtado.com.br'
 SITENAME = 'Gustavo Furtado de Oliveira Alves'
 SITETITLE = SITENAME
 SITESUBTITLE = 'Desenvolvedor de Softwares'
