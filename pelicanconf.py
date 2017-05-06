@@ -1,15 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
+# from __future__ import unicode_literals
 
 AUTHOR = 'Gustavo Furtado'
-# SITEURL = 'http://gustavofurtado.com.br'
-# SITEURL = 'http://localhost:8000'
-SITEURL = ''
+SITEURL = 'http://localhost:1337'
 SITENAME = 'Gustavo Furtado de Oliveira Alves'
-SITETITLE = 'Gustavo Furtado'
+SITETITLE = SITENAME
 SITESUBTITLE = 'Desenvolvedor de Softwares'
-SITEDESCRIPTION = 'Site do Gustavo Furtado de Oliveia Alves'
+SITEDESCRIPTION = 'Blog do Gustavo Furtado de Oliveia Alves'
 SITELOGO = SITEURL + '/images/profile.jpg'
 FAVICON = SITEURL + '/images/favicon/favicon.ico'
 BROWSER_COLOR = '#333333'
@@ -20,17 +18,24 @@ PATH = 'content'
 
 # Enable i18n plugin.
 PLUGIN_PATHS = ['./pelican-plugins']
-PLUGINS = ['i18n_subsites', 'sitemap',]
-# Enable Jinja2 i18n extension used to parse translations.
-JINJA_EXTENSIONS = ['jinja2.ext.i18n']
+PLUGINS = ['sitemap', 'post_stats', 'i18n_subsites']
+
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 
 #language
 TIMEZONE = 'America/Sao_Paulo'
+# I18N_TEMPLATES_LANG = 'pt_BR'
+# DEFAULT_LANG = 'pt_BR'
+# OG_LOCALE = 'pt_BR'
+# LANGUAGE = 'pt_BR'
+# LOCALE = 'pt_BR'
+# Default theme language.
 I18N_TEMPLATES_LANG = 'pt_BR'
+# Your language.
 DEFAULT_LANG = 'pt_BR'
 OG_LOCALE = 'pt_BR'
+LOCALE = ('pt','bra', 'pt_BR')
 LANGUAGE = 'pt_BR'
-LOCALE = 'pt_BR'
 
 DEFAULT_DATE_FORMAT = '%d de %B de %Y'
 
@@ -76,7 +81,7 @@ CC_LICENSE = {
     'slug': 'by-sa'
 }
 
-COPYRIGHT_YEAR = 2016
+COPYRIGHT_YEAR = 2017
 
 STATIC_PATHS = ['images', 'extra/CNAME', 'static']
 
