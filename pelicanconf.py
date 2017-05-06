@@ -20,8 +20,7 @@ PATH = 'content'
 PLUGIN_PATHS = ['./pelican-plugins']
 PLUGINS = ['sitemap', 'post_stats', 'i18n_subsites']
 
-JINJA_EXTENSIONS = ['jinja2.ext.i18n']
-JINJA_ENVIRONMENT = {'extensions': JINJA_EXTENSIONS}
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 
 #language
 TIMEZONE = 'America/Sao_Paulo'
