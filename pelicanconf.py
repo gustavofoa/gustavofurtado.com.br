@@ -8,8 +8,8 @@ SITENAME = 'Gustavo Furtado de Oliveira Alves'
 SITETITLE = SITENAME
 SITESUBTITLE = 'Desenvolvedor de Softwares'
 SITEDESCRIPTION = 'Blog do Gustavo Furtado de Oliveia Alves'
-SITELOGO = SITEURL + '/images/profile.jpg'
-FAVICON = SITEURL + '/images/favicon/favicon.ico'
+SITELOGO = '/images/profile.jpg'
+FAVICON = '/images/favicon/favicon.ico'
 BROWSER_COLOR = '#333333'
 PYGMENTS_STYLE = 'monokai'
 
