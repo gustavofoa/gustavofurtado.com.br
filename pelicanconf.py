@@ -22,7 +22,7 @@ PLUGIN_PATHS = ['./pelican-plugins']
 PLUGINS = ['sitemap', 'post_stats', 'i18n_subsites']
 
 JINJA_EXTENSIONS = ['jinja2.ext.i18n']
-# JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 
 #language
 TIMEZONE = 'America/Sao_Paulo'
@@ -55,7 +55,7 @@ AUTHOR_FEED_RSS = None
 #          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('linkedin', 'https://br.linkedin.com/in/gustavo-furtado-ab5703a'),
+SOCIAL = (('linkedin', 'https://www.linkedin.com/in/gustavo-furtado-oliveira-alves'),
           ('github', 'https://github.com/gustavofoa'),
           ('google', 'https://google.com/+GustavoFurtadoDeOliveiraAlves'),
           ('twitter', 'https://twitter.com/gustavofoa'),
@@ -85,10 +85,11 @@ CC_LICENSE = {
 
 COPYRIGHT_YEAR = 2017
 
-STATIC_PATHS = ['images', 'extra/CNAME', 'static', 'extra/certificates']
+STATIC_PATHS = ['images', 'extra/CNAME', 'static', 'exracertificates']
 
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
+    'extra/certificates': {'path': 'certificates'},
 }
 
 CUSTOM_CSS = 'static/custom.css'

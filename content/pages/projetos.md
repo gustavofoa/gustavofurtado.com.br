@@ -8,7 +8,7 @@ Porque sucesso se faz a noite!
 
 ##Músicas para Missa ([musicasparamissa.com.br](http://musicasparamissa.com.br/){: target="\_blank"})
 
-[![mpm](https://dm8sjho5caga5.cloudfront.net/images/logo/logoMpM-300x223.png){: style="float:left"}](http://musicasparamissa.com.br/){: target="\_blank"}
+[![mpm](https://static.musicasparamissa.com.br/images/logo/logoMpM-300x223.png){: style="float:left"}](http://musicasparamissa.com.br/){: target="\_blank"}
 
 Este site eu criei junto com minha esposa Daiana em maio de 2013. 
 Eu já escrevi um post completo sobre como nasceu o site, 
