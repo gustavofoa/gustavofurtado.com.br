@@ -34,7 +34,7 @@ estudamos "ciência" na escola?
 Ah! É muito importante dizer que não estou culpando professores nem
 escolas aqui. Estudei em escola pública no ensino fundamental e tive
 excelentes professores que guardo até hoje na memória, também tive a
-oportunidades de estudar numa excelente escola particular com bolsa
+oportunidade de estudar numa excelente escola particular com bolsa
 durante o ensino médio e técnico, também com excelentes professores bem
 intencionados. Mas infelizmente fui aprender a aplicar o método
 científico fora da escola.
@@ -49,14 +49,14 @@ para os seus filhos.
 Por que ensinar criança de ensino fundamental a fazer sexo e não
 ensiná-la lógica de programação? Porque ensinar o que menino beijar menino é certo ao
 invés de ensinar o que é uma elipse, que aliás, é movimento mais básico
-de todos os corpos em movimento no espaço?! E tão simples quanto outras
+de todos os corpos em movimento no espaço?! Elipse é tão simples quanto outras
 formas geométricas que aprendemos no ensino básico como circulo (que é
 uma elipse), quadrado, triângulo...
 
 Para muita gente gravidade é só a força que faz a maçã cair da árvore! A
-maioria das pessoas não sabem que, se derem um tiro horizontal na
+maioria das pessoas não sabe que, se derem um tiro horizontal na
 velocidade certa em cima do monte Everest a bala nunca vai cair! Aliás
-sai da frente porque ela vai te acertar na nuca! (rs)
+sai da frente porque ela vai te acertar na sua nuca! (rs)
 
 A minha mensagem neste post é o seguinte: Não confie no sistema de
 ensino do seu país! Qualquer que seja o país! Se você não aprender e não
