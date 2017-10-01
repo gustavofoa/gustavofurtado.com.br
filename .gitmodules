@@ -4,4 +4,4 @@
 
 [submodule "pelican-plugins"]
 	path = pelican-plugins
-	url = https://github.com/getpelican/pelican-plugins
+	url = https://github.com/gustavofoa/pelican-plugins
