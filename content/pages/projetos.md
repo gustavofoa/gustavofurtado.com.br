@@ -37,7 +37,7 @@ Sim, eu fiz o site sobre uma plataforma para blogs.
 
 ## { Dicas de Programação } ([dicasdeprogramacao.com.br](http://dicasdeprogramacao.com.br/){: target="\_blank"})
 
-[![mpm](http://www.dicasdeprogramacao.com.br/wp-content/uploads/2013/03/Logo2.png){: style="float:left"}](http://dicasdeprogramacao.com.br/){: target="\_blank"}
+[![{ Dicas de Programação }](https://dicasdeprogramacao.com.br/images/logo.png){: style="float:left"}](http://dicasdeprogramacao.com.br/){: target="\_blank"}
 
 Criei este blog em Março de 2013 para publicar artigos 
 com dicas para quem está aprendendo a programar.
