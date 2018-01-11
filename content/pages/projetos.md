@@ -76,3 +76,23 @@ fique a vontade para se inscrever.
 
 [>> Quero me inscrever no minicurso GRATUITO de lógica de programação.](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/){: target="\_blank"}
 
+
+## { Dicas de Java } ([dicasdejava.com.br](http://dicasdejava.com.br/){: target="\_blank"})
+
+Este blog eu criei em julho de 2017 com o intuito de ser um blog simples
+com tutoriais e dicas de como fazer algumas coisas em java.
+
+Ao longo do meu dia-a-dia trabalhando com Java eu me deparo com algumas situações
+de dúvidas minha ou de colegas de trabalho em que eu relembro de conceitos
+que estudei no passado quando me preparava para as certificações.
+Também me deparo com atualizações da linguagem que não existiam naquela época.
+
+Enquanto eu explicava algum conceito para algum programador menos experiente,
+ou mesmo quando eu pesquisava para me atualizar,
+percebi a necessidade de colocar publicar esses assuntos
+para ajudar outras pessoas que também tenham alguma eventual dúvida sobre Java,
+e todo o ecossistema que o envolve.
+
+Estou sempre publicando algum post por lá ...
+
+Acesse: [dicasdejava.com.br](http://dicasdejava.com.br/){:target=\_blank}  
