@@ -85,7 +85,7 @@ CC_LICENSE = {
 
 COPYRIGHT_YEAR = 2017
 
-STATIC_PATHS = ['images', 'extra/CNAME', 'static', 'extra/certificates']
+STATIC_PATHS = ['images', 'extra', 'extra/CNAME', 'static', 'extra/certificates']
 
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
