@@ -90,6 +90,7 @@ STATIC_PATHS = ['images', 'extra/CNAME', 'static', 'extra/certificates']
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
     'extra/certificates': {'path': 'certificates'},
+    'extra/lomadee22620354.html': {'path': 'lomadee22620354.html'},
 }
 
 CUSTOM_CSS = 'static/custom.css'
