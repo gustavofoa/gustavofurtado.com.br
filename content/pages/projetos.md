@@ -50,7 +50,7 @@ Mas pretendo ajudar muito mais, ensinar muito mais
 e contribuir muito mais com esta revolução de ensino que estamos vivendo, 
 onde a programação está se tornando disciplina básica da alfabetização.
 
-#### Minicurso GRATUITO de lógica de programação ([Inscreva-se aqui](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/){: target="\_blank"})
+#### Minicurso GRATUITO de lógica de programação ([Inscreva-se aqui](https://mclp.dicasdeprogramacao.com.br/){: target="\_blank"})
 
 Em Dezembro de 2015 eu disponibilizei um minicurso de lógica de programação
 por e-mail, dentro do **{ Dicas de Programação }**. 
@@ -74,8 +74,7 @@ e a resolução dos exercícios sugeridos ao longo do minicurso. As lições sã
 Se você ficou interessado em fazer este minicurso,
 fique a vontade para se inscrever.
 
-[>> Quero me inscrever no minicurso GRATUITO de lógica de programação.](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/){: target="\_blank"}
-
+[>> Quero me inscrever no minicurso GRATUITO de lógica de programação.](https://mclp.dicasdeprogramacao.com.br/){: target="\_blank"}
 
 ## { Dicas de Java } ([dicasdejava.com.br](http://dicasdejava.com.br/){: target="\_blank"})
 
@@ -89,8 +88,8 @@ Também me deparo com atualizações da linguagem que não existiam naquela épo
 
 Enquanto eu explicava algum conceito para algum programador menos experiente,
 ou mesmo quando eu pesquisava para me atualizar,
-percebi a necessidade de colocar publicar esses assuntos
-para ajudar outras pessoas que também tenham alguma eventual dúvida sobre Java,
+percebi a necessidade de publicar esses assuntos
+para ajudar outras pessoas que também tenham alguma eventual dúvida sobre Java
 e todo o ecossistema que o envolve.
 
 Estou sempre publicando algum post por lá ...
