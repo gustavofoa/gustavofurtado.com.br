@@ -6,7 +6,7 @@ tags: O que uso
 slug: obs-software-para-gravar-a-tela-do-seu-computador
 cover: images/posts/obs/obs-studio.jpg
 
-Se você quer criar videos gravando a tela do seu computador ou até fazer uma transmissão ao vivo para o as redes sociais,
+Se você quer criar videos gravando a tela do seu computador ou até fazer uma transmissão ao vivo para as redes sociais,
 o software que eu te indico é o **Open Broadcaster Software**, também conhecido como **OBS Studio**.
 
 Este software é muito simples de usar e também muito poderoso, além de ser gratuito.
@@ -17,6 +17,8 @@ Já usei o **OBS Studio** várias vezes e hoje, por acaso eu precisei instalá-l
 de criar esse post com o processo de instalação do OBS Studio no Windows.
 
 Então vamos lá!
+
+## Instalação
 
 Primeiro você deve baixar o instalador do OBS Studio no [site oficial](https://obsproject.com/){:target=\_blank}.
 Escolha o instalador para o seu sistema operacional, no meu caso eu vou instalar no Windows.
@@ -79,7 +81,13 @@ Deixe o marcado a opção "Launch OBS Studio ##.#.#" se quiser que o OBS Studio 
 
 A primeira vez que o **OBS Studio** abre, ele apresenta os *Termos e Condições da Licença*, se você concordar, clique em **OK**.
 
-Pronto. O OBS Studio está instalado no seu Windows!
+Pronto. O OBS Studio está instalado no seu Windows e essa aqui é a tela do **OBS Studio**.
+
+Agora vamos aprender o básico de como funciona este software.
+
+## Como funciona o OBS Studio
+
+
 
 ![OBS Studio aberto](/images/posts/obs/obs-instalador-11.png){:width=100%}
 
