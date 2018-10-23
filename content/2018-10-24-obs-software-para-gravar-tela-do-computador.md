@@ -77,7 +77,7 @@ Deixe o marcado a opção "Launch OBS Studio ##.#.#" se quiser que o OBS Studio 
 
 ![Finalização da instalação do OBS Studio](/images/posts/obs/obs-instalador-10.png){:width=100%}
 
-A primeira vez queo OBS Studio abre, ele apresenta os *Termos e Condições da Licença*, se você concordar, clique em **OK**.
+A primeira vez que o **OBS Studio** abre, ele apresenta os *Termos e Condições da Licença*, se você concordar, clique em **OK**.
 
 Pronto. O OBS Studio está instalado no seu Windows!
 
