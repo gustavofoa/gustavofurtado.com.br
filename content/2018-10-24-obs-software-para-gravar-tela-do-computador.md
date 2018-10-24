@@ -1,5 +1,5 @@
 title: OBS Studio: Software para gravar a tela do seu computador e fazer transmissões
-date: 2018-10-23
+date: 2018-10-24
 author: Gustavo Furtado de Oliveira Alves
 category: Dicas
 tags: O que uso
@@ -46,14 +46,14 @@ Clique no link indicado para baixar o instalador do Visualg C++ 2017.
 
 ![Instalador do Visual C++ 2017 baixado](/images/posts/obs/obs-instalador-03.png){:width=100%}
 
-Após baixar, execute o instalador, a primeira tela pedira para aceitar os termos de licença.
+Após baixar, execute o instalador, a primeira tela pedirá para aceitar os termos de licença.
 Leia os termos, clique em concordar (se concordar) e em **Instalar**.
 
 ![Aceite dos termos de instalação do Visual C++ 2017](/images/posts/obs/obs-instalador-05.png){:width=100%}
 
 O instalador pedirá acesso de administrador, clique em Sim e o instalador vai instalar o Visual C++ 2017.
 
-Clique em **Fechar**.
+Clique em **Fechar** quando a instalação terminar.
 
 ![Fechar instalador Visual C++ 2017](/images/posts/obs/obs-instalador-06.png){:width=100%}
 
@@ -75,7 +75,7 @@ Clique em **Install** para iniciar o processo de instalação.
 ![Componentes adicionar para o OBS Studio](/images/posts/obs/obs-instalador-09.png){:width=100%}
 
 Após a finalização do processo de instalação do OBS Studio, basta clicar em **Finish**.
-Deixe o marcado a opção "Launch OBS Studio ##.#.#" se quiser que o OBS Studio seja aberto.
+Deixe o marcado a opção "Launch OBS Studio ##.#.#" se quiser que o OBS Studio seja aberto em seguida.
 
 ![Finalização da instalação do OBS Studio](/images/posts/obs/obs-instalador-10.png){:width=100%}
 
@@ -85,17 +85,21 @@ Pronto. O OBS Studio está instalado no seu Windows e essa aqui é a tela do **O
 
 Agora vamos aprender o básico de como funciona este software.
 
-## Como funciona o OBS Studio
-
-
-
 ![OBS Studio aberto](/images/posts/obs/obs-instalador-11.png){:width=100%}
 
+## Como funciona o básico do OBS Studio
 
+O **OBS Studio** é um software muito poderoso para gravação e transmissão.
 
+É possível configurar varias cenas, combinando várias fontes de imagem (tela do computador, webcam, câmera, etc.) e som (microfone, saída de audio, fone, etc.).
 
+Com isso nós já temos o funcionamento básico do **OBS Studio**, ou seja, _cenas que são combinações de fontes de imagens e sons_.
 
+O GIF abaixo exemplifica uma configuração básica onde combinei uma tela do meu computador, um quadro pequeno com a webcam
+e o microfone do notebook, eu também poderia adicionar a saída de audio, se quisesse que o som do notebook saísse no video final.
 
+![Exemplo de configuração do OBS Studio para Screencast](/images/posts/obs/exemplo-configuracao-obs.gif){:width=100%}
 
+Por fim, basta clicar nos botões **Iniciar Transmissão** ou **Iniciar gravação**, dependendo do que você quiser fazer, transmitir ou gravar. ;)
 
-
+Espero que tenha gostado da dica!
