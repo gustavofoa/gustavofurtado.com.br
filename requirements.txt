@@ -1,5 +1,5 @@
 fabric
 pelican==3.6
-markdown
+Markdown==2.6.11
 ghp-import
 BeautifulSoup4
