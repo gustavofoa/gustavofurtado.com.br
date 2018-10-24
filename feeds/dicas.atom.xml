@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Gustavo Furtado de Oliveira Alves</title><link href="http://gustavofurtado.com.br/" rel="alternate"></link><link href="http://gustavofurtado.com.br/feeds/dicas.atom.xml" rel="self"></link><id>http://gustavofurtado.com.br/</id><updated>2018-10-24T00:00:00-03:00</updated><entry><title>OBS Studio: Software para gravar a tela do seu computador e fazer transmissões</title><link href="http://gustavofurtado.com.br/obs-software-para-gravar-a-tela-do-seu-computador/" rel="alternate"></link><published>2018-10-24T00:00:00-03:00</published><updated>2018-10-24T00:00:00-03:00</updated><author><name>Gustavo Furtado de Oliveira Alves</name></author><id>tag:gustavofurtado.com.br,2018-10-24:obs-software-para-gravar-a-tela-do-seu-computador/</id><summary type="html">&lt;p&gt;Se você quer criar videos gravando a tela do seu computador ou até fazer uma transmissão ao vivo para as redes sociais,
+o software que eu te indico é o &lt;strong&gt;Open Broadcaster Software&lt;/strong&gt;, também conhecido como &lt;strong&gt;OBS Studio&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Este software é muito simples de usar e também muito poderoso, além de ser gratuito.
+Nele é possível configurar várias fontes de captura de audio e video,
+além de permitir configurar como deve ficar o video final.&lt;/p&gt;
+&lt;p&gt;Já usei o &lt;strong&gt;OBS Studio&lt;/strong&gt; várias vezes e hoje, por acaso eu precisei instalá-lo num computador e me senti na obrigação
+de criar esse post com o processo de instalação do OBS Studio no Windows.&lt;/p&gt;
+&lt;p&gt;Então vamos lá!&lt;/p&gt;
+&lt;h2&gt;Instalação&lt;/h2&gt;
+&lt;p&gt;Primeiro você deve baixar o instalador do OBS Studio no &lt;a href="https://obsproject.com/" target="_blank"&gt;site oficial&lt;/a&gt;.
+Escolha o instalador para o seu sistema operacional, no meu caso eu vou instalar no Windows.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Página do OBS Studio para Download" src="/images/posts/obs/obs-site.png" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;Após baixar o instaldor do &lt;strong&gt;OBS Studio&lt;/strong&gt;, execute-o.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Instalador do OBS Studio baixado" src="/images/posts/obs/obs-instalador-windows.png" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;Ao executar o instalador do OBS Studio, o windows pedirá acesso de administrador.
+Basta aceitar pra seguir com a instalação.&lt;/p&gt;
+&lt;p&gt;Esta é a primeira tela do instalador, basta clicar em &lt;em&gt;Next&lt;/em&gt; para continuar.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Primeira tela da instalação do OBS Studio" src="/images/posts/obs/obs-instalador-01.png" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;No meu caso, o instalador identificou que faltava alguns componentes do meu sistema
+que são necessários para a instalação do OBS Studio. Clique em &lt;strong&gt;Sim&lt;/strong&gt;, neste caso.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Baixar instalador do Visual C++ 2017" src="/images/posts/obs/obs-instalador-02.png" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;O instalador abriu uma página do site do projeto OBS indicando o download do Visual C++ 2017.
+Clique no link indicado para baixar o instalador do Visualg C++ 2017.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Instalador do Visual C++ 2017 baixado" src="/images/posts/obs/obs-instalador-03.png" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;Após baixar, execute o instalador, a primeira tela pedirá para aceitar os termos de licença.
+Leia os termos, clique em concordar (se concordar) e em &lt;strong&gt;Instalar&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Aceite dos termos de instalação do Visual C++ 2017" src="/images/posts/obs/obs-instalador-05.png" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;O instalador pedirá acesso de administrador, clique em Sim e o instalador vai instalar o Visual C++ 2017.&lt;/p&gt;
+&lt;p&gt;Clique em &lt;strong&gt;Fechar&lt;/strong&gt; quando a instalação terminar.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Fechar instalador Visual C++ 2017" src="/images/posts/obs/obs-instalador-06.png" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;Execute o instalador do OBS Studio novamente, agora que não tem mais instalação de dependência pendente, o instalador do OBS Studio apresentará os termos de licença,
+clique em &lt;strong&gt;I Agree&lt;/strong&gt; se você concordar com os termos.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Termos de uso do OBS Studio" src="/images/posts/obs/obs-instalador-07.png" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;O passo seguinte é a seleção do local onde o OBS Studio será instalador, por padão ele selecionará a pasta &lt;code&gt;C:\Program Files\obs-studio&lt;/code&gt;,
+se quiser você poderá alterar a pasta, clique em &lt;strong&gt;Next&lt;/strong&gt; para confirmar.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Seleção da pasta de instalação do OBS Studio" src="/images/posts/obs/obs-instalador-08.png" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;Para finalizar a seleção das opções de instalação,
+o instalador oferece a opção de instalar componentes adicionar, você pode marcar os que desejar.&lt;/p&gt;
+&lt;p&gt;Clique em &lt;strong&gt;Install&lt;/strong&gt; para iniciar o processo de instalação.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Componentes adicionar para o OBS Studio" src="/images/posts/obs/obs-instalador-09.png" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;Após a finalização do processo de instalação do OBS Studio, basta clicar em &lt;strong&gt;Finish&lt;/strong&gt;.
+Deixe o marcado a opção "Launch OBS Studio ##.#.#" se quiser que o OBS Studio seja aberto em seguida.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Finalização da instalação do OBS Studio" src="/images/posts/obs/obs-instalador-10.png" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;A primeira vez que o &lt;strong&gt;OBS Studio&lt;/strong&gt; abre, ele apresenta os &lt;em&gt;Termos e Condições da Licença&lt;/em&gt;, se você concordar, clique em &lt;strong&gt;OK&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Pronto. O OBS Studio está instalado no seu Windows e essa aqui é a tela do &lt;strong&gt;OBS Studio&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Agora vamos aprender o básico de como funciona este software.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="OBS Studio aberto" src="/images/posts/obs/obs-instalador-11.png" width="100%" /&gt;&lt;/p&gt;
+&lt;h2&gt;Como funciona o básico do OBS Studio&lt;/h2&gt;
+&lt;p&gt;O &lt;strong&gt;OBS Studio&lt;/strong&gt; é um software muito poderoso para gravação e transmissão.&lt;/p&gt;
+&lt;p&gt;É possível configurar varias cenas, combinando várias fontes de imagem (tela do computador, webcam, câmera, etc.) e som (microfone, saída de audio, fone, etc.).&lt;/p&gt;
+&lt;p&gt;Com isso nós já temos o funcionamento básico do &lt;strong&gt;OBS Studio&lt;/strong&gt;, ou seja, &lt;em&gt;cenas que são combinações de fontes de imagens e sons&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;O GIF abaixo exemplifica uma configuração básica onde combinei uma tela do meu computador, um quadro pequeno com a webcam
+e o microfone do notebook, eu também poderia adicionar a saída de audio, se quisesse que o som do notebook saísse no video final.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Exemplo de configuração do OBS Studio para Screencast" src="/images/posts/obs/exemplo-configuracao-obs.gif" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;Por fim, basta clicar nos botões &lt;strong&gt;Iniciar Transmissão&lt;/strong&gt; ou &lt;strong&gt;Iniciar gravação&lt;/strong&gt;, dependendo do que você quiser fazer, transmitir ou gravar. ;)&lt;/p&gt;
+&lt;p&gt;Espero que tenha gostado da dica!&lt;/p&gt;</summary><category term="O que uso"></category></entry><entry><title>Que tal fazer exercícios físicos e ganhar milhas?</title><link href="http://gustavofurtado.com.br/que-tal-fazer-exercicios-fisicos-e-ganhar-milhas/" rel="alternate"></link><published>2016-01-02T00:00:00-02:00</published><updated>2016-01-02T00:00:00-02:00</updated><author><name>Gustavo Furtado de Oliveira alves</name></author><id>tag:gustavofurtado.com.br,2016-01-02:que-tal-fazer-exercicios-fisicos-e-ganhar-milhas/</id><summary type="html">&lt;p&gt;Já pensou ficar mais saudável fazendo exercícios físicos e de quebra ganhar pontos em programas de fidelidade que podem ser trocados por viagens, hospedagens, produtos e serviços?&lt;/p&gt;
+&lt;p&gt;Essa é a proposta da startup de tecnologia &lt;strong&gt;&lt;a href="http://movamais.com/?convite=1oRC9fhnFE"&gt;Mova Mais&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Funciona assim:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Você faz exercícios&lt;/strong&gt;. Atualmente são considerados apenas exercícios realizados em ambiente externo, que possam ser monitorados por GPS. Os exercícios que se encaixa no programa são caminhada, corrida e ciclismo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Usa aplicativos de monitoramento&lt;/strong&gt;. Para participar do &lt;strong&gt;Mova Mais&lt;/strong&gt; e ganhar ponto fazendo exercícios você precisa monitorar o seu com um dos seguintes aplicativos: Strava, RunKeeper ou MapMyRun.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;O Mova Mais contabiliza os seus créditos&lt;/strong&gt;. Você vai fazendo exercícios físicos e acumulando pontos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Você transfere os pontos para o programa de fidelidade&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Você só precisa se &lt;a href="http://movamais.com/?convite=1oRC9fhnFE"&gt;cadastrar gratuitamente no site da Mova Mais&lt;/a&gt;, escolher o aplicativo que vai usar para o monitoramento (RunKeeper, Strava ou MapMyRun) e fazer os exercícios físico.&lt;/p&gt;
+&lt;p&gt;Neste mês de Janeiro, A Mova Mais quer impulsionar a prática de atividades físicas e consolidar hábitos saudáveis no Ano Novo. Para isso eles vão dar &lt;strong&gt;pontos em dobro&lt;/strong&gt; para quem manter a rotina de exercícios do dia 4 ao dia 31 de janeiro. Além disso quem fizer o combo de exercícios do dia 4 ao dia 8 de janeiro já vai ganhar 500 pontos.&lt;/p&gt;
+&lt;p&gt;Esse era o incentivo que faltava para você criar vergonha na cara e ter uma vida mais saudável.&lt;/p&gt;</summary><category term="O que faço"></category></entry><entry><title>Ideias para cumprir as promessas de ano novo</title><link href="http://gustavofurtado.com.br/ideias-para-cumprir-promessas-de-ano-novo/" rel="alternate"></link><published>2015-12-31T00:00:00-02:00</published><updated>2015-12-31T00:00:00-02:00</updated><author><name>Gustavo Furtado de Oliveira Alves</name></author><id>tag:gustavofurtado.com.br,2015-12-31:ideias-para-cumprir-promessas-de-ano-novo/</id><summary type="html">&lt;p&gt;Todo final/começo de ano é a mesma coisa, todo mundo faz as suas
+promessas para o ano que está por vir.  Já virou clichê fazer promessas
+nesta época. Mas não adianta nada fazer a promessa de 2015 pra 2016 e
+chegar no reveillon 2016 para 2017 e estar com a LISTA de promessas em
+20% cumprida (como os nossos governantes).&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Promessa" src="/images/posts/promessa.png" style="float: right; width: 320px; height: 306px; padding: 10px;" /&gt;&lt;/p&gt;
+&lt;p&gt;Infelizmente essa é a realidade, não é? Você cumpre as suas promessas de
+final/começo de ano? Na verdade eu sou otimista pra colocar
+"final/começo" de ano, porque muita gente já esquece dessas promessaws
+logo na virada.&lt;/p&gt;
+&lt;p&gt;Ah! Esse ano vou emagrecer! Esse ano vou fazer aquela pós-graduação!
+Esse ano vou aprender a tocar contra-baixo! Esse ano vou aprender
+inglês!&lt;/p&gt;
+&lt;p&gt;Aí vem a pergunta mais: Como cumprir as promessas? Você pensou no plano
+pra cumprir essas promessas?&lt;/p&gt;
+&lt;h2&gt;Seja lento na promessa e rápido no desempenho&lt;/h2&gt;
+&lt;p&gt;Não faça tantas promessas, lembre-se que você DEVE cumpri-las! Há um
+provérbio chinês que diz: &lt;strong&gt;Seja lento na promessa e rápido no
+desempenho.&lt;/strong&gt; Se a sua lista de promessas tá passando de 3 itens, você
+já está prometendo muito! Isso é sério, quanto menos objetivos você
+tiver, mais focado neles você será.&lt;/p&gt;
+&lt;p&gt;Agora que você já sabe que deve ter poucos objetivos para atingir neste
+ano que começa, não pense pequeno neles, embora deva ter os pés no chão,
+pense grande! Sim, coloque a mão na sua consciência e perceba a sua
+capacidade, identifique no máximo 3 objetivos que você tenha a
+capacidade de atingir, por maior que sejam, se você tem a capacidade de
+alcançá-los: sonhe! Seja realista, mas não deixe de sonhar!&lt;/p&gt;
+&lt;p&gt;Escreva as três promessas num papel.&lt;/p&gt;
+&lt;h2&gt;Como atingir os objetivos do ano que começa?&lt;/h2&gt;
+&lt;p&gt;Com os objetivos identificados agora precisamos traçar um plano de
+ataque e persegui-lo com sangue nos olhos!&lt;/p&gt;
+&lt;p&gt;Se você conseguiu identificar 3 objetivos para este ano e está convicto
+em cumçar os seus objetivos. É o mínimo que você pode fazer!&lt;/p&gt;
+&lt;h2&gt;Envie e-mails para você no futuro&lt;/h2&gt;
+&lt;p&gt;Outra ideia é utilizar algum serviço de lembretes para te incentivar a
+atingir os seus objetivos, tenho uma sugestão para isso: Tem um site em
+que você pode programar envios de e-mails para você mesmo, chama-se
+&lt;code&gt;FutureME &amp;lt;http://www.futureme.org/&amp;gt;&lt;/code&gt;__. Lá você pode programar
+mensagens para enviar para você mesmo durante o ano, é uma boa forma de
+se incentivar a cumprir as suas promessas. Digo isso porque nós não
+estamos com o mesmo desejo de crescimento durante todos os dias do ano e
+isso é uma ótima forma de levantar a sua autoestima nos momentos de
+desânimo. Planeje isso!&lt;/p&gt;
+&lt;p&gt;Ah! Uma coisa muito importante eu já ia esquecendo! Envie um e-mail para
+você no futuro (pode ser utilizando
+o  &lt;code&gt;FutureME &amp;lt;http://www.futureme.org/&amp;gt;&lt;/code&gt;__) para te lembrar de
+comemorar as suas conquistas!&lt;/p&gt;
+&lt;h2&gt;Crie o hábito de fazer planos diários&lt;/h2&gt;
+&lt;p&gt;Um dos melhores hábitos que você pode adquirir é planejar o seu dia.
+Faça desta a primeira tarefa do seu dia. Olhe para os seus objetivos e o
+planejamento global e planeje o seu dia. Esforce-se para cumprir este
+planejamento ao longo do dia. No dia seguinte faça a mesma coisa.&lt;/p&gt;
+&lt;h2&gt;Compartilhe com seus verdadeiros amigos&lt;/h2&gt;
+&lt;p&gt;Compartilhe as suas promessas com seus verdadeiros amigos. Contar os
+seus objetivos a amigos é uma das melhores formas de te ajudar a
+comprometer-se com os resultados. Peça para o seu amigo te cobrar
+evolução.&lt;/p&gt;
+&lt;p&gt;Ele vai parecer chato algumas vezes, mas se for amigo mesmo ele vai
+continuar te incentivando, cobrando resultados, e te ajudando a cumprir
+os seus sonhos.&lt;/p&gt;
+&lt;p&gt;Feliz 2016!!! Que seja um ano de grandes realizações.&lt;/p&gt;</summary><category term="O que faço"></category></entry></feed>
