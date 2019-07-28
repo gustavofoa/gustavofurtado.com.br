@@ -87,11 +87,13 @@ COPYRIGHT_YEAR = 2017
 
 STATIC_PATHS = ['images', 
                 'extra/lomadee22620354.html', 
+                'extra/ads.txt',
                 'extra/CNAME', 
                 'static', 
                 'extra/certificates']
 
 EXTRA_PATH_METADATA = {
+    'extra/ads.txt': {'path': 'ads.txt'},
     'extra/CNAME': {'path': 'CNAME'},
     'extra/certificates': {'path': 'certificates'},
     'extra/lomadee22620354.html': {'path': 'lomadee22620354.html'}
