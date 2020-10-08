@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://gustavofurtado.com.br'
+SITEURL = 'https://gustavofurtado.com.br'
 RELATIVE_URLS = False
 
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
